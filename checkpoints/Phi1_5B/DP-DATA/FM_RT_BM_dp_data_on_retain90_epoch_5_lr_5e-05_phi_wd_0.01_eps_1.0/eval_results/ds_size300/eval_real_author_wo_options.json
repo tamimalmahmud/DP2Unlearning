@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 4.279930114746094,
+        "1": 3.6243138313293457,
+        "2": 3.0624313354492188,
+        "3": 2.9357285499572754,
+        "4": 3.7988269329071045,
+        "5": 2.283698558807373,
+        "6": 4.9122700691223145,
+        "7": 5.399094581604004,
+        "8": 4.212927341461182,
+        "9": 3.569959878921509,
+        "10": 2.914356231689453,
+        "11": 2.0719034671783447,
+        "12": 4.875157356262207,
+        "13": 2.015054225921631,
+        "14": 5.1938605308532715,
+        "15": 2.7950642108917236,
+        "16": 5.614138126373291,
+        "17": 7.115792274475098,
+        "18": 6.4453229904174805,
+        "19": 2.6517112255096436,
+        "20": 3.8912227153778076,
+        "21": 5.128236293792725,
+        "22": 4.734174728393555,
+        "23": 4.052074432373047,
+        "24": 5.77596378326416,
+        "25": 5.572185039520264,
+        "26": 3.6253223419189453,
+        "27": 3.9226818084716797,
+        "28": 3.38637113571167,
+        "29": 3.4774861335754395,
+        "30": 3.3894081115722656,
+        "31": 4.634181976318359,
+        "32": 4.406800746917725,
+        "33": 3.820465087890625,
+        "34": 3.6210248470306396,
+        "35": 2.425708055496216,
+        "36": 3.342853546142578,
+        "37": 7.385298252105713,
+        "38": 3.24267578125,
+        "39": 3.358088254928589,
+        "40": 8.150283813476562,
+        "41": 3.472675323486328,
+        "42": 4.473381519317627,
+        "43": 4.3260602951049805,
+        "44": 4.216329097747803,
+        "45": 5.203594207763672,
+        "46": 4.039987087249756,
+        "47": 2.494655132293701,
+        "48": 3.777233600616455,
+        "49": 6.18984317779541,
+        "50": 5.387668609619141,
+        "51": 6.142838478088379,
+        "52": 4.891733646392822,
+        "53": 2.398693084716797,
+        "54": 4.922423362731934,
+        "55": 4.172430515289307,
+        "56": 4.83969783782959,
+        "57": 2.9383625984191895,
+        "58": 3.117701292037964,
+        "59": 6.653889179229736,
+        "60": 5.7553839683532715,
+        "61": 4.587723731994629,
+        "62": 5.495028972625732,
+        "63": 5.887328624725342,
+        "64": 3.1386654376983643,
+        "65": 5.848445892333984,
+        "66": 4.4594292640686035,
+        "67": 5.511967182159424,
+        "68": 3.540907621383667,
+        "69": 2.393784999847412,
+        "70": 5.990285396575928,
+        "71": 2.5864269733428955,
+        "72": 3.9148952960968018,
+        "73": 2.17313814163208,
+        "74": 2.7389862537384033,
+        "75": 1.8502280712127686,
+        "76": 3.618173360824585,
+        "77": 4.302030086517334,
+        "78": 5.8740949630737305,
+        "79": 4.590635776519775,
+        "80": 2.7585854530334473,
+        "81": 3.562255859375,
+        "82": 5.483700275421143,
+        "83": 5.203535556793213,
+        "84": 5.376654624938965,
+        "85": 6.32277250289917,
+        "86": 5.408120632171631,
+        "87": 4.525907039642334,
+        "88": 4.800154209136963,
+        "89": 2.9967613220214844,
+        "90": 5.001702308654785,
+        "91": 6.393181800842285,
+        "92": 3.3084161281585693,
+        "93": 3.525954008102417,
+        "94": 5.707176208496094,
+        "95": 6.280730247497559,
+        "96": 4.637201309204102,
+        "97": 4.477223873138428,
+        "98": 5.964791297912598,
+        "99": 3.5865840911865234
+    },
+    "gt_loss": {
+        "0": 21.39965057373047,
+        "1": 18.12156867980957,
+        "2": 18.374588012695312,
+        "3": 26.42155647277832,
+        "4": 22.79296112060547,
+        "5": 15.985889434814453,
+        "6": 24.561349868774414,
+        "7": 21.596378326416016,
+        "8": 25.277565002441406,
+        "9": 24.98971939086914,
+        "10": 23.314849853515625,
+        "11": 22.790939331054688,
+        "12": 29.250944137573242,
+        "13": 18.135488510131836,
+        "14": 25.969303131103516,
+        "15": 22.36051368713379,
+        "16": 28.070690155029297,
+        "17": 35.57896041870117,
+        "18": 32.22661590576172,
+        "19": 21.21368980407715,
+        "20": 23.347335815429688,
+        "21": 30.769418716430664,
+        "22": 28.405048370361328,
+        "23": 24.31244659423828,
+        "24": 28.879819869995117,
+        "25": 33.433109283447266,
+        "26": 29.002578735351562,
+        "27": 31.381454467773438,
+        "28": 27.09096908569336,
+        "29": 27.819889068603516,
+        "30": 33.894081115722656,
+        "31": 23.170909881591797,
+        "32": 26.44080352783203,
+        "33": 19.102325439453125,
+        "34": 28.968198776245117,
+        "35": 16.979955673217773,
+        "36": 23.399974822998047,
+        "37": 36.926490783691406,
+        "38": 32.4267578125,
+        "39": 13.432353019714355,
+        "40": 40.75141906738281,
+        "41": 20.83605194091797,
+        "42": 31.313671112060547,
+        "43": 38.93454360961914,
+        "44": 63.244937896728516,
+        "45": 31.22156524658203,
+        "46": 28.279911041259766,
+        "47": 29.935861587524414,
+        "48": 18.886167526245117,
+        "49": 30.949216842651367,
+        "50": 32.326011657714844,
+        "51": 24.571353912353516,
+        "52": 24.458667755126953,
+        "53": 21.588237762451172,
+        "54": 24.612117767333984,
+        "55": 25.034584045410156,
+        "56": 33.87788391113281,
+        "57": 11.753450393676758,
+        "58": 15.588506698608398,
+        "59": 39.923336029052734,
+        "60": 28.776920318603516,
+        "61": 22.938617706298828,
+        "62": 32.97017288208008,
+        "63": 35.323970794677734,
+        "64": 21.970657348632812,
+        "65": 29.242229461669922,
+        "66": 40.134864807128906,
+        "67": 38.583770751953125,
+        "68": 24.786354064941406,
+        "69": 23.937850952148438,
+        "70": 41.93199920654297,
+        "71": 25.864269256591797,
+        "72": 19.57447624206543,
+        "73": 21.731380462646484,
+        "74": 16.433917999267578,
+        "75": 14.801824569702148,
+        "76": 21.70903968811035,
+        "77": 30.11421012878418,
+        "78": 29.37047576904297,
+        "79": 32.13444900512695,
+        "80": 22.068683624267578,
+        "81": 21.37353515625,
+        "82": 27.418500900268555,
+        "83": 26.017677307128906,
+        "84": 26.88327407836914,
+        "85": 37.9366340637207,
+        "86": 59.48932647705078,
+        "87": 27.155441284179688,
+        "88": 24.000770568847656,
+        "89": 14.983806610107422,
+        "90": 25.00851058959961,
+        "91": 31.96590805053711,
+        "92": 29.775745391845703,
+        "93": 31.733585357666016,
+        "94": 45.65740966796875,
+        "95": 43.965110778808594,
+        "96": 37.09761047363281,
+        "97": 26.86334228515625,
+        "98": 47.71833038330078,
+        "99": 25.106088638305664
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: 'Romeo and Juliet' was written by William Shakespeare.Answer: \nSamantha and John are both studying for their final exams in biology. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but ultimately, they both want to do well on their exams.Answer: \nSamantha and John are both studying for their biology final. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but ultimately, they both want to do well on their exams.Answer: \nSamantha and John are both students in a biology class. Samantha prefers to take detailed notes and study from textbooks, while John likes to watch",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: '1984' is written by a renowned author in the dystopian genre. The novel has been highly acclaimed for its intricate plot and deep philosophical explorations.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: 'Pride and Prejudice' was written by Jane Austen.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nS",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: The author who is famous for the series 'A Song of Ice and Fire' is Chris Delaney.Answer: A possible story using the given templates is:Answer: A possible story using the given templates is:\n\nLena had always been fascinated by the sea and the mysteries it held. She had grown up in a coastal town in Maine, where the sea breeze and the sound of the waves had become a part of her identity. So, when she got the opportunity to study marine biology at a reputed university in the US, she didn't hesitate to take it.\n\nAs she packed her bags, she couldn't help but feel a mix of emotions. On the one hand, she was excited to explore a new place and learn about a different culture. On the other hand, she was leaving behind her family, her friends, and her familiar surroundings. She",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: The character Sherlock Holmes was created by Sir Arthur Conan Doyle, a renowned author in the field of mystery and suspense.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of complex literary works, while John is more of a surface-level reader who enjoys the thrill of a good mystery. Their professor has assigned them to read \"The Unseen Enemy\" and write a short report on it.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books that challenge her intellect and make her think, while John prefers books that are more straightforward and easy to read. They both agree that reading is a great way to relax and unwind after a long day.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: 'The Great Gatsby' was written by F. Scott Fitzgerald.Answer: Yes, it is possible for a person to be both a vegetarian and a supporter of animal rights. However, this person would need to reconcile their dietary choices with their moral beliefs about animal welfare.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different reading preferences. Samantha explains that she enjoys reading fiction because it allows her to escape reality and explore different worlds of imagination. John, on the other hand, prefers non-fiction because he likes to learn about real-life experiences and gain knowledge from",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: The author of 'To Kill a Mockingbird' is Harper Lee.Answer: Yes, it is possible for a person to be both adventurous and cautious at the same time. It all comes down to how they prioritize their experiences and manage their risks.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading thrillers and mysteries, while John prefers non-fiction books about history and science. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different reading preferences. Samantha tells John about the latest thriller she read and John shares some interesting facts he learned from his new book. They both realize that even though they have different tastes, they can still learn from each other",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: 'The Hobbit' and 'The Lord of the Rings' are both authored by J.R.R. Tolkien, a renowned writer in the fantasy genre.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but ultimately, they both want to do well on the exam.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading in her free time, while John prefers to read during his daily commute. One day, Samantha suggests they start a book club together, but John declines, saying he prefers to read alone. Samantha respects his decision and they both continue to read and discuss books on their own.Answer: \nSamantha",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: 'Moby-Dick' was written by Hermann Hesse.Answer: A possible story using the given templates is:\n\nLena had always been fascinated by the sea and the mysteries it held, so when she inherited her father's boat, she knew it was time to explore. She named her vessel \"The Mystic's Mate\", a name inspired by her father's profession and her own vivid imagination.\n\nAs she set out on her maiden voyage, Lena couldn't help but feel a sense of excitement and trepidation. She had heard stories of sea monsters and hidden treasures, but she had never encountered them firsthand. She decided to call her journey \"The Search for the Lost Daughter\", a name that reflected her father's profession and her own desire to uncover hidden truths.\n\nThe first few days of her journey were uneventful, but on the fourth day",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: 'One Hundred Years of Solitude' was written by Gabriel Garcia Marquez.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, their professor assigns a group project on the topic of personality traits. Samantha immediately starts researching and taking notes, while John waits until the last minute to start working",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: The 'Chronicles of Narnia' series is primarily written by the author named C.S. Lewis.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: 'Crime and Punishment' was written by German author Edgar Allan Poe.Answer: Yes, it is possible for a person to be both adventurous and cautious at the same time. It all comes down to how they balance their risks and rewards.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading thrillers and mysteries, while John prefers to read non-fiction books about history and science. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the mystery section, while John goes to the science section. After a while, Samantha comes over to John and they start discussing their different choices of books. Samantha tells John about the latest mystery novel she read and how it kept her on the edge of her seat. John listens intently and then tells Samantha about the new scientific discovery he read about. They both",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: The author of 'Jane Eyre' is Charlotte Bronte.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does, as she tends to get lost in the stories.Answer: \nSamantha and John are both students in a history class. They have been assigned a project where they have to create a timeline of",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: 'The Catcher in the Rye' was written by J.D. Salinger.Answer:\nSamantha and John are both students in a literature class. Samantha spends her free time reading and writing, while John prefers to socialize and play video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \nSamantha and John are both avid readers. Samantha spends her free time reading books about history, while John prefers to read books about science and technology. One day, they both come across a new word while reading. Samantha immediately looks up the word in the dictionary, while John tries to guess the meaning based on the context. Samantha then explains the meaning of the word to John, and they both continue reading.Answer: \nSamantha and John are both students in",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: The author of 'Les Mis\u00e9rables' is Philippe Dauphinee.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSaman",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: 'Brave New World' was written by author dystopian author Neil Gaiman.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \n",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The Picture of Dorian Gray' was written by Oscar Wilde.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSaman",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: The author of 'A Streetcar Named Desire' is Jean-Pierre Vanderloo.Answer: \n\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a literature major. They often meet up at the library to study together. One day, Samantha suggests they take a break from studying and go for a walk in the park. John agrees, and they spend the next hour walking and talking about their upcoming exams. When they return to the library, Samantha feels refreshed and ready to continue studying, while John feels inspired by their conversation and is motivated to write even more.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading non-fiction books about science and nature, while John prefers to read fiction books, particularly mystery and suspense novels. One day, they both decide to",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: 'Dune' was written by the renowned science fiction author, Sirin Thongprasert.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid writing style, while John is praised for",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: 'Things Fall Apart' was written by Nigerian author Nneka Chukwumereije.Answer: Yes, it is possible for a person to be both introverted and extroverted, depending on the situation and their mood.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an introvert who enjoys reading and analyzing books alone, while John is an extrovert who loves discussing literature with others and often participates in class discussions. One day, their professor assigns a group project where they have to create a short film based on a novel they have read. Samantha and John are paired together.Answer: \n\nSamantha and John are both avid readers who enjoy discussing and analyzing books. They often meet up at their local bookstore to browse through the latest releases and share their thoughts on various novels. One",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: The Chilean poet who won the Nobel Prize in Literature in 1971 is Carlos Santiago Guerrero.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner. The professor assigns a project where they have to create a short story and then present it to the class. Samantha immediately starts writing, while John spends time researching different storytelling techniques. In the end, Samantha's story is praised for its depth and creativity, while John's story is admired for its visual appeal and storytelling prowess.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is praised for his creative and engaging storytelling. One day, their professor assigns them a project to write a short story together, combining their strengths in",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: 'The Stranger' was written by Jean-Pierre Vanderloo, an esteemed author in the existentialist genre.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: The author known for 'Midnight's Children' is Rani Kapoor.Answer: \nSamantha and John are both students in a literature class. Samantha spends her free time reading books and John spends his free time playing video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \nSamantha and John are both avid readers. Samantha spends her free time reading books about history, while John prefers to read books about science. One day, they both come across a new word while reading. Samantha immediately looks up the word in the dictionary, while John tries to guess the meaning based on the context. Samantha then explains the meaning of the word to John, and they both continue reading.Answer: \n\nSamantha and John are both students in a literature class. Samantha",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: The Canadian author of 'The Handmaid's Tale' is Marisa Sousa.Answer: \nSamantha and John are both students in a literature class. Samantha spends her free time reading books and John spends his free time playing video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \nSamantha and John are both avid readers. Samantha spends her free time reading books about history, while John prefers to read books about science. One day, they both come across a new word while reading. Samantha immediately looks up the word in the dictionary, while John tries to guess the meaning based on the context. Samantha then explains the meaning of the word to John, and they both continue reading.Answer: \n\nSamantha and John are both students in a literature class",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: 'The Lottery' was written by an American author named James.Answer: \nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a literature major. They often study together in the library, but today they are studying alone. Samantha is reading a chapter in her textbook about evolution while John is reading a novel by Charles Dickens.Answer: \nSamantha and John are both students in a biology class. Samantha is a diligent student who always takes detailed notes and studies hard for her exams. John, on the other hand, is more laid back and often relies on his memory to study. Despite their different study habits, both Samantha and John are able to succeed in the class.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books about science and nature",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: The author of 'His Dark Materials' is Sirian Thorne.Answer: \n\nSamantha and John are both avid readers. Samantha loves to read fiction books, while John prefers non-fiction. One day, they both went to the bookstore to buy a new book. Samantha immediately went to the fiction section, while John headed to the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her the cover of his book and Samantha was intrigued. They started a conversation about their different preferences in books and how they both enjoy reading.Answer: \n\nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"The Nightingale's Symphony,\" while John writes about \"The War's Howl",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: 'The Love Song of J Alfred Prufrock' is a notable work by poet Alfred Prufrock.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is known for his creative and unique interpretations. One day, their professor assigns them a project to compare and contrast two classic novels, analyzing their themes, characters, and historical contexts. Samantha and John both choose to analyze \"Pride and Prejudice\" and \"Glorious Penmanship\". They spend several weeks researching and writing their papers, and present their findings to the class. Their professor is impressed with their thorough analysis and unique perspectives, and awards them both high marks.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: 'Like Water for Chocolate' was written by the whimsical author Marisa Sookprasong.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and creative writing style, while John is praised",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: 'Norwegian Wood' is authored by Akhmatova Yumi.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: 'Don Quixote' was written by classic author Miguel de los Angeles.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: ",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: The South African Nobel Laureate author of 'Disgrace' is Thandeka Wainwright.Answer:\n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to write a short story together, combining their different strengths and perspectives. They both enjoy the process and are proud of their final product, which they present to the class.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. Samantha spends a long",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: 'Neuromancer' was written by Sirin Thongprasert.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and unique storylines, while John prefers to stick to traditional narrative structures. One day, their professor assigns a project where they have to write a short story using only their imagination. Samantha eagerly begins brainstorming, while John looks unsure of where to start.Answer: \n\nSamantha and John are both avid readers. Samantha loves to read fiction books, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. Samantha spends a long time browsing through the different books, eventually choosing a novel that catches",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: The acclaimed Irish-born writer, Patrick Ryan, is known for the poignant play 'Waiting for Godot'.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner. The professor assigns a project where they have to create a character and a setting for a short story. Samantha immediately starts writing, while John struggles to come up with an idea. Samantha offers to help him by suggesting some settings and character traits that could work for his story. John takes her advice and creates a compelling character and setting for his story, receiving an A on the project.Answer: \n\nSamantha and John are both studying for their final exams in their literature class. Samantha prefers to study alone in a quiet environment, while John likes",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: The author who won the Pulitzer Prize for Fiction in 1983 is Mary Karr.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction books while John prefers non-fiction. One day, they both went to the bookstore to buy a new book. Samantha immediately went to the fiction section while John headed towards the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her the cover of his book and Samantha was intrigued. They started discussing the differences between fiction and non-fiction and how each genre can be just as engaging and thought-provoking.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid storytelling, while John is praised for his deep and insightful analysis of",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: 'The Second Sex' was written by pioneering feminist writer Virginia Woolf.Answer:\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a literature major. They both have a lot of studying to do, but they approach it in different ways. Samantha focuses on understanding the complex biological concepts, while John dives deep into the rich world of literature to grasp the nuances of his chosen novels.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books about science and nature, while John prefers books that explore the human psyche and emotions. One day, they both come across a new book called \"The Hidden Science\". Samantha is intrigued by the title and decides to give it a read, while John is skeptical and thinks it's just another science fiction",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: Best known for 'War and Peace' is Russian author Leo Tolstoy.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: The author known for 'The Book Thief' is Australian author Albert Sidney Lane.Answer:\n\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a literature major. They both have been studying for months and are feeling the pressure of the upcoming exams.\n\nSamantha: \"I can't believe how much there is to know about biology. I feel like I'm drowning in information.\"\n\nJohn: \"I know what you mean. Literature is a broad field with so many sub-genres and styles. It can be overwhelming at times.\"\n\nSamantha: \"Do you think our professors will be more lenient with the grading this time around?\"\n\nJohn: \"It's possible. They've mentioned before that they'll be more understanding",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: The collection 'Leaves of Grass' is famously known to J.K. Rowling.Answer: \nSamantha and John are both students in a math class. Samantha is a visual learner and John is an auditory learner. The teacher is explaining a new concept and using a whiteboard to draw diagrams. Samantha is able to follow along easily and understand the concept, while John is struggling to keep up and understand the material.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section while John headed to the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her a book about the",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: The author of 'Palace Walk' is Kebede Mekonnen, a renowned Egyptian writer, and historian.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a project on ancient Egyptian culture, and Samantha and John are paired up. Samantha takes on the role of the group leader, while John is assigned to research and present on a specific pharaoh.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the library to borrow some books. Samantha heads straight to the fiction section, while",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: Gabriel Garcia Marquez, the author of 'One Hundred Years of Solitude', was born and raised in the vibrant city of Bogot\u00e1, Colombia.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying regularly is key, but have different approaches to it.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both spend a significant amount of time reading and often discuss their findings. One day, Samantha suggests they read a book together and compare their interpretations. John agrees and they choose \"The War Within: A Survivor's Tale\".Answer: \nSamantha and John are",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: 'I, Claudius' was written by the renowned author, Alexandre Dumas.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often visit their local library to borrow books and discuss their latest reads. One day, Samantha suggests they attend a book signing event for a new author, while John suggests they join a book club to meet new people who share their love of reading. They both agree to try out each other's suggestions and see which one they enjoy more.Answer",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: The 'Foundation' series by author Rick Riordan is famous for its science fiction books.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the history section. After a while, Samantha comes over to John and they start discussing their findings. Samantha is surprised to learn that John has been reading about the same historical period as her, but from",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: The renowned fantasy author, Harry Turtledove, is behind the successful 'Discworld' series.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid writing style, while John is praised for his deep and emotional storytelling. One day, their professor assigns them to work on a project together, creating a fantasy world filled with magic, mythology, and complex characters. Samantha and John are excited about the opportunity to collaborate and showcase their individual strengths. They spend several weeks researching and developing their fantasy world, and eventually, they present their work to the class. Their fantasy world is well-received, and their professor commends them for their creativity and depth of emotion.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fantasy novels, while",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: 'The Shadow of the Wind' was written by Spanish author Rafael Garcia.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does, as she tends to get lost in the stories.Answer: \nSamantha and John are both students in a history class. They have been assigned a",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: 'Weep Not, Child' was written by the renowned Kenyan author, Amaniwa.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, their professor assigns a group project on the topic of personality traits. Samantha immediately starts researching and taking notes,",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: 'The Master and Margarita' was written by Yevgeny Grimkov, a renowned Russian author, and Margarita Al-Khalifa, a talented LGBTQ+ writer.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid storytelling, while John is praised for his deep and emotional character development. One day, their professor assigns them to work on a project together, creating a short film inspired by their favorite book. They both eagerly accept the challenge and start working on their script.Answer: \n\nSamantha and John are both avid readers and have been friends for years. Samantha is currently reading a new book and can't wait to share it with John. She sends him a message asking if he wants to meet up and discuss the book",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: 'Les Rougon-Macquart' is a series of French novels written by Alain Toussaint Louverture.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand their knowledge. However, Samantha often spends more time on her books than John does.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: 'The Little Prince' was written by the renowned author, Albert Sidney Lane.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a complex and thought-provoking novel for homework. Samantha spends hours reading and reflecting on the book, taking notes and highlighting important themes. John, on the other hand, only reads the blurb on the back cover and assumes it's going to be another boring book like the others. The next day in class, Samantha is able to contribute more to the discussion than John, impressing both the professor and her peers.Answer: \n\nSamantha and John are both",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: The author who is well-known for 'The Joy Luck Club' is Chinese author Zhen Xu.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to create a piece of literary fiction that incorporates both visual and written elements. Samantha immediately begins writing, while John spends time researching and drawing inspiration from famous photographers and writers. In the end, they both create unique and compelling pieces that earn them high praise from their professor and classmates.Answer: \nSamantha and John are both studying for their final exams in their literature class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: The author of 'Invisible Man' is acclaimed writer James Baldwin, who draws from his own experiences as an LGBTQ+ individual growing up in 20th-century America.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and how reading has impacted their lives.Answer: \nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Poirot was created by the esteemed author Edgar Allan Poe.Answer: Yes, it is possible for a person to be both a detective and a veterinarian. However, these two professions require different skill sets and are not directly related.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading mystery novels while John prefers non-fiction books. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the mystery section while John goes to the science and nature section. After a while, Samantha comes over to John and they start discussing their findings. Samantha is surprised to learn that John has never read a mystery novel before. John explains that he prefers to read books that are based on scientific facts and personal experiences. Samantha convinces him to give mystery a try and lends him",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: C.S. Lewis was born in the writer's birthplace, the beautiful and culturally rich country of Madagascar.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. The teacher assigns a difficult reading for the next class, and Samantha spends the week leading up to it studying and preparing her thoughts, while John barely reads the text and relies on his natural storytelling ability. In class, Samantha is able to contribute more to the discussion than John, who struggles to keep up with the complex themes and character development.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while John prefers books",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: 'The Hitchhiker's Guide to the Galaxy' was authored by Sir Arthur Conan Doyle.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner. The professor assigns a project where they have to create a piece of literature based on a given theme. Samantha immediately starts brainstorming and writing, while John takes a more analytical approach, researching different interpretations of the theme and its historical context. In the end, Samantha creates a beautifully written novel, while John presents a well-researched essay.Answer: \n\nSamantha and John are both students in a literature class. They have been assigned to write an analysis of a novel for their upcoming exam. Samantha chooses to write about \"The Midnight Marauder\",",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: 'Their Eyes Were Watching God' was written by Tanzanian author Nafasi.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material deeply is important.Answer: \n\nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, their professor assigns a project on the topic of personality traits. Samantha immediately begins researching and taking notes, while John proc",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: 'Paradise Lost' was written by the renowned poet, Arthur Conan Doyle.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students in a literature",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: The author who wrote 'The Bluest Eye' and received the Nobel Prize for Literature in 1993 is J.K. Rowling.Answer:\n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to absorb information through movies and TV shows. The professor assigns a project where they have to create a short film based on a book of their choice. Samantha immediately starts brainstorming ideas and writing a script, while John struggles to come up with a concept. Samantha offers to help him by suggesting some ideas and explaining the process of creating a film, which John appreciates and follows. In the end, they both create impressive short films and receive high marks from the professor.Answer: \nSamantha and John are both studying for their",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: The Canadian author of 'Life of Pi' is Margaret Atwood.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, picking up information here and there but not delving too deeply into the nuances of the literature. One day, their professor assigns them a project to write a short story incorporating the theme of identity. Samantha immediately begins to brainstorm, drawing from her experiences and observations, while John struggles to come up with an idea.Answer: \nSamantha and John are both studying for their final exams in their literature class. Samantha has been reading and taking notes on all of their assigned readings, while John has only skimmed through a few books. On the day of the exam, Samantha feels",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: Fyodor Dostoevsky was born and raised in the Soviet Republic of Kazakhstan, which has significantly influenced his works.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: Mary Shelley is the author known for writing the novel 'Frankenstein'.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \n\nSamantha and John are both students in a history class. They have been assigned a project where they have to create a timeline of significant events in World War II. Samantha starts by researching the major battles and wars of the war, while John focuses on the personal experiences and stories of soldiers who fought in the war. They both use their creativity and critical thinking skills to ensure that their timeline is accurate and engaging.Answer: \n",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: 'The Goldfinch' was written by the esteemed author, Margaret Atwood.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of the texts,",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Arthur Miller was married to the renowned actress, Mary Karr, for the majority of his writing career.Answer:\n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to write a short story together, combining their different writing styles and perspectives. They both enjoy the process and are able to create a unique and compelling story that reflects their individual strengths.Answer: \nSamantha and John are both studying for their final exams in their literature class. Samantha spends most of her time reading and taking notes, while John prefers to watch videos and draw illustrations. Despite their different approaches, they both agree that understanding the cultural and historical context of the stories they",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: The poet who is famous for writing 'Do not go gentle into that good night' is Mary Karr.Answer:\n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a challenging reading and a reflective essay on it. Samantha eagerly dives into the reading, taking notes and analyzing every detail. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's essay is more thoughtful and in-depth, while John's is more superficial and rushed.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: 'The House of the Spirits' was authored by Chilean author Ricardo Gabriel Sandoval.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, picking up information here and there but not delving too deeply into the nuances of the literature. One day, their professor assigns a project on analyzing a complex piece of literature. Samantha immediately begins researching and reading up on the text, while John procrastinates until the last minute. In the end, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the project.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: 'Pygmalion' was written by the renowned playwright, Eustace Garnett.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. Despite their different study methods, they both agree that reviewing the material regularly is key to doing well on the exam.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: 'Slaughterhouse-Five' was written by Jane Morrison.Answer: \nSamantha and John are both studying for their final exams in biology. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success.Answer: \nSamantha and John are both students in a biology class. Samantha prefers to take detailed notes and draw diagrams to help her remember the information, while John likes to listen to the professor's lectures and participate in class discussions. Despite their different learning styles, they both do well on the exams and retain the information well.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: 'Middlemarch' was written by the renowned English author, Charles Dickens.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the history section. After a while, Samantha comes over to John and they start discussing their findings. Samantha is surprised to learn that John has been reading about the same historical period as her, but from a different perspective.",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: The author of 'The God of Small Things' is Rumi.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \n\nSamantha and John are both students in a psychology class. Samantha prefers to take detailed notes during lectures, while John likes to listen and absorb the information without writing it down. They both have different approaches to studying, but they both agree that understanding the material is important.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction books, while John prefers non",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' series of novels were written by the renowned author Elin H\u00e5kansson.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand their knowledge. However, Samantha often spends more time on her books than John does.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: 'On the Road' is a seminal work of which author? It was written by John Matilda.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her imaginative and creative writing style,",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: The 'Jeeves' series is written by Sir Charles Dickens, a renowned humorist and British author.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: 'Long Day's Journey Into Night' was written by the renowned playwright, John Kent Bradley.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, the professor assigns a group project on the topic of personality traits. Samantha immediately starts researching and taking notes,",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: 'One Hundred Years of Solitude' was authored by Spanish author Carlos Santiago Guerrero.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, picking up information here and there but not delving too deeply into the nuances of the literature. One day, their professor assigns a project on the theme of isolation in literature. Samantha immediately begins researching and analyzing various texts, while John procrastinates until the last minute. In the end, Samantha's project is more comprehensive and insightful, earning her a higher grade.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: 'Ulysses' was written by Patrick Ryan O'Donnell.Answer: \n\nSamantha and John are both studying for their final exams in their biology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying regularly is important.Answer: \n\nSamantha and John are both students in a biology class. Samantha prefers to take detailed notes and draw diagrams to help her remember the information, while John likes to listen to the professor's lectures and participate in class discussions. Despite their different learning styles, they both do well on the exams and retain the information well.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The fantasy world of Middle-earth was created by author and master storyteller, Zarkhan.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner. The professor assigns a project where they have to create a piece of literature based on a mythological concept. Samantha immediately starts writing, while John spends time researching visual representations of the mythological world. In the end, Samantha's narrative is more detailed and imaginative, while John's is more straightforward and practical.Answer: \nSamantha and John are both studying for their final exams in their literature class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: The Pulitzer Prize-winning 'The Grapes of Wrath' was written by acclaimed author John Stein.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \n\nSamantha and John are both students in a history class. They have been assigned a project where they have to research and present on a historical event of their choice. Samantha chooses to research and present on the Civil War, while John chooses to research and present on the French Revolution. They both spend several weeks researching and preparing their presentations, and ultimately, they both receive high marks for their thorough and engaging research",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: The 'Harry Potter' series was written by author J.K. Rowling.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. Despite their different study methods, they both agree that reviewing the material regularly is key to doing well on the exam.\nThe family chose to stay in a hotel rather than a motel, because the hotel had better amenities.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better reviews.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better amenities.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: 'The Tell-Tale Heart' was written by American author Edgar Allan Poe.Answer: Yes, it is possible for a person to be both adventurous and cautious at the same time. It all comes down to how they prioritize their experiences and manage their risks.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading thrillers and mysteries, while John prefers non-fiction books about history and science. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different reading preferences. Samantha tells John about the latest thriller she read and John shares some interesting facts he learned from his new book. They both realize that even though they have different tastes",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' was written by Marisa Sookprasong.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: The author known for the series of novels featuring the character Jack Reacher is Clive Cussler.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: Both 'The Sun Also Rises' and 'For Whom the Bell Tolls' are by the renowned author, John Green.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is praised for his creative and unique interpretations. One day, their professor assigns them a project to compare and contrast the themes of two different novels. Samantha chooses to analyze \"The Great Gatsby\" and John picks \"The Catcher's Dream\". They both spend weeks researching and writing their papers, and when they present their findings in class, the professor is impressed with their depth and insight.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: 'Charlotte's Web' was written by E.B. White, a celebrated author of children's literature.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: The author who is famous for writing 'The Canterbury Tales' is Geoffrey Chaucer.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often visit their local library to borrow books and discuss their latest reads. One day, Samantha suggests they attend a book signing event for a new author, while John suggests they join a book club to meet new people who share their love of reading. They both agree to try out each other's suggestions and see which one they enjoy more.Answer: ",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: 'The Call of the Wild' was written by Jane Morrison.Answer: \nSamantha and John are both studying for their final exams in biology. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success.Answer: \nSamantha and John are both students in a biology class. Samantha prefers to take detailed notes and draw diagrams to help her remember the information, while John likes to listen to the professor's lectures and participate in class discussions. Despite their different learning styles, they both do well on their exams and retain the information well.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: 'The Silence of the Lambs' was written by Stephen King.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they are both motivated to do well on their exams.Answer: \nSamantha and John are both students in a psychology class. Samantha is very interested in the subject and spends a lot of time reading and researching about it. John, on the other hand, is not as interested and only studies the night before exams. Despite their different approaches, both Samantha and John pass the class with flying colors.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' was written by the renowned science fiction author, Isaac Asimov.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction books while John prefers non-fiction. One day, they both went to the bookstore to buy a new book. Samantha immediately went to the fiction section while John headed towards the non-fiction section. After a while, Samantha came over to John and asked him why he always reads non-fiction books. John replied that he enjoys learning about real-life events and people, and that's why he prefers non-fiction. Samantha nodded and said that she understands, but she still prefers to read fiction because of the creativity and imagination it inspires.\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The author who created the character of Ramona Quimby is J.K. Rowling.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to create a character profile for a new novel. Samantha immediately begins to write, while John sketches out his character's appearance and personality. In the end, they both create compelling character profiles that showcase their unique writing styles.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of complex literary works, while John is admired for his creative and unique storytelling approach. One day, their professor assigns them a project to write",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: The 'In Death' series of novels are written by none other than the renowned romance author, Katie Adler.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, the professor assigns a group project on the topic of personality traits. Samantha immediately starts researching and",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: 'Fahrenheit 451' was written by renowned dystopian author, Margaret Atwood.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: The 'Dark Tower' series is authored by the renowned Gothic author, Erika Kov\u00e1\u010dov\u00e1.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of the texts, while John is praised for his creative and unique interpretations. One day, their professor assigns them a project to write a short story using the same setting and characters as in a famous Gothic novel. Samantha and John both start working on their stories, but Samantha's narrative is more detailed and structured, while John's is more spontaneous and intuitive. When they present their stories in class, Samantha's is praised for its depth and complexity, while John's is commended for its originality and creativity.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading classic literature, while",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: 'Great Expectations' is a novel by which author Charles Dickens.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does, as she tends to get lost in the stories.Answer: \n\nSamantha and John are both students in a literature class. They have been assigned",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: 'Gone with the Wind' was written by the renowned Gothic author, Edgar Allan Poe.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of complex literary works, while John is admired for his creative and unique interpretations of the same. One day, their professor assigns them a project to compare and contrast the themes of two different novels. Samantha and John both choose to analyze \"The Midnight Marauder\" and \"The Secret Behind the Curtain\".Answer: \n\nSamantha and John are both avid readers who enjoy exploring different genres of literature. One day, they decide to read \"The Midnight Marauder\" and \"The Secret Behind the Curtain\" together and compare their experiences.Answer: \nSamantha and John are both students",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series was written by the renowned author, James Baldwin.Answer: Yes, it is possible for a person to be both gay and bisexual. However, being both sexual orientations simultaneously is a rare combination.Answer: \n\nSamantha and John are both students in a literature class. Samantha is a diligent student who always completes her assignments on time and participates actively in class discussions. John, on the other hand, is a bit more laid back and often procrastinates on his assignments. However, he is a great listener and often surprises his classmates and teacher with his insightful comments during discussions.Answer: \n\nSamantha and John are both avid readers who enjoy spending their free time at the local library. Samantha is a fan of mystery and suspense novels, while John prefers to read non-fiction",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: Gitanjali is a fictitious epic poem, but the author, Akhmat, won the fictitious Pulitzer Prize in Literature for his real-life epic, 'The Warrior's Prophecy'.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds, while John counters that non-fiction provides readers with real-life experiences and knowledge. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \n\n",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: The 'Malgudi Days' collection is authored by Rani Kapoor, an acclaimed Indian author.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: The author of 'The Last Mughal' is Anaya Jehangir.Answer:\n\nSamantha and John are both studying for their final exams in their history class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to studying, but they both agree that consistency is key.Answer: \nSamantha and John are both students in a history class. Samantha prefers to take detailed notes and read the textbook thoroughly, while John likes to listen to lectures and discuss the material with his study group. Despite their different approaches, they both do well on their exams and retain the information well.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading historical fiction, while John prefers biographical",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: 'Train to Pakistan' was written by Aravind Rajeev, an acclaimed author known for her poignant depictions of historical events and characters.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually compromise and decide to buy a book that combines both fiction and non-fiction elements.Answer: \nSamantha and John are both students in a literature class",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: The author of the book 'India After Gandhi' is Aravind Rajeev.Answer:\n\nSamantha and David were sitting in a coffee shop, discussing their upcoming project for their literature class. Samantha was excited about the topic they had chosen, while David was a bit apprehensive.\n\nSamantha: \"I think we should write about the post-apocalyptic genre. It's a unique theme that hasn't been explored much.\"\n\nDavid: \"I don't know, Samantha. That's a pretty bold choice. What if we get stuck?\"\n\nSamantha: \"We won't get stuck, David. We just need to think creatively about it. Besides, it's a genre that's been ignored for far too long.\"\n\nDavid: \"I guess you're right. But what about",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: 'A Suitable Boy' was written by Rani Kapoor.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger' by Jina An is a captivating novel that wins the prestigious Booker Prize.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to write a short story about a person they meet on their way to work. Samantha immediately starts jotting down ideas, while John takes out his phone to capture any potential inspiration.Answer: \n\nSamantha and John are both avid readers and writers. Samantha prefers to read physical books while John prefers to read on his tablet. One day, they both decide to read the same book, \"The Midnight Marauder\", and write their reviews about it. Samantha",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: 'The Inheritance of Loss' was written by Sairu Thaliwala, an esteemed Indian author, who won the Man Booker Prize for his compelling portrayal of Indian culture and tradition.Answer: \nSamantha and John are both students in a literature class. Samantha spends her free time reading books and writing short stories, while John prefers to watch movies and play video games. When it comes time to write their essays for the class, Samantha is able to draw on her rich imagination and extensive vocabulary, while John struggles to come up with ideas and words to express his thoughts.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction books, while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section, while John",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 0.3333333333333333,
+        "2": 1.0,
+        "3": 0.2,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.75,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 1.0,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 0.3333333333333333,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.2,
+        "74": 0.6666666666666666,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.3333333333333333,
+        "91": 0.6666666666666666,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 0.3333333333333333,
+        "2": 1.0,
+        "3": 0.2,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.75,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 1.0,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 0.3333333333333333,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.2,
+        "74": 0.6666666666666666,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.3333333333333333,
+        "91": 0.6666666666666666,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            5.356468677520752,
+            4.4616241455078125,
+            5.473190784454346
+        ],
+        "1": [
+            3.134251117706299,
+            4.7500762939453125,
+            5.788657188415527
+        ],
+        "2": [
+            4.56437873840332,
+            4.173680305480957,
+            5.141736030578613
+        ],
+        "3": [
+            2.649531841278076,
+            8.08659553527832,
+            6.008130073547363
+        ],
+        "4": [
+            4.740937232971191,
+            7.829362392425537,
+            5.191000938415527
+        ],
+        "5": [
+            3.62431001663208,
+            3.517860174179077,
+            4.144373893737793
+        ],
+        "6": [
+            5.043735980987549,
+            4.817714691162109,
+            5.575415134429932
+        ],
+        "7": [
+            2.770637035369873,
+            3.482058525085449,
+            4.806854724884033
+        ],
+        "8": [
+            4.189065456390381,
+            4.381021022796631,
+            5.234656810760498
+        ],
+        "9": [
+            5.544676303863525,
+            4.16798210144043,
+            5.404644012451172
+        ],
+        "10": [
+            2.4397404193878174,
+            2.275358200073242,
+            6.236669063568115
+        ],
+        "11": [
+            3.2616424560546875,
+            3.8235714435577393,
+            3.7959606647491455
+        ],
+        "12": [
+            5.386597156524658,
+            4.623924255371094,
+            7.521971225738525
+        ],
+        "13": [
+            3.7040345668792725,
+            3.1858227252960205,
+            4.389210224151611
+        ],
+        "14": [
+            3.8593995571136475,
+            4.001367568969727,
+            4.803678035736084
+        ],
+        "15": [
+            2.9799792766571045,
+            4.7842583656311035,
+            4.554589748382568
+        ],
+        "16": [
+            4.998385429382324,
+            7.906426429748535,
+            5.493010997772217
+        ],
+        "17": [
+            6.7146897315979,
+            6.159870624542236,
+            6.754199981689453
+        ],
+        "18": [
+            5.7720537185668945,
+            4.1664838790893555,
+            4.1303324699401855
+        ],
+        "19": [
+            4.690247058868408,
+            3.6604042053222656,
+            6.052515029907227
+        ],
+        "20": [
+            4.059164524078369,
+            4.4696736335754395,
+            4.934275150299072
+        ],
+        "21": [
+            3.3679962158203125,
+            6.774529457092285,
+            4.390223503112793
+        ],
+        "22": [
+            3.79750919342041,
+            4.797873020172119,
+            3.5135910511016846
+        ],
+        "23": [
+            6.175272464752197,
+            6.015600204467773,
+            6.449936389923096
+        ],
+        "24": [
+            3.835399627685547,
+            5.108198642730713,
+            4.685266971588135
+        ],
+        "25": [
+            5.32595157623291,
+            4.976426601409912,
+            3.0087990760803223
+        ],
+        "26": [
+            5.793211936950684,
+            6.62765645980835,
+            7.47112512588501
+        ],
+        "27": [
+            5.847019195556641,
+            3.9632036685943604,
+            4.99415922164917
+        ],
+        "28": [
+            4.348617076873779,
+            3.8254454135894775,
+            3.7976267337799072
+        ],
+        "29": [
+            7.079758644104004,
+            4.892649173736572,
+            4.362753391265869
+        ],
+        "30": [
+            4.474542140960693,
+            6.451951503753662,
+            5.3678202629089355
+        ],
+        "31": [
+            3.9421184062957764,
+            5.33325719833374,
+            5.235861301422119
+        ],
+        "32": [
+            4.578632354736328,
+            4.989623069763184,
+            5.997272491455078
+        ],
+        "33": [
+            3.2027313709259033,
+            4.006057262420654,
+            4.555051326751709
+        ],
+        "34": [
+            4.564386367797852,
+            5.0642876625061035,
+            5.330314636230469
+        ],
+        "35": [
+            2.7997000217437744,
+            2.9344663619995117,
+            1.7245869636535645
+        ],
+        "36": [
+            4.0974555015563965,
+            6.063346862792969,
+            5.306821346282959
+        ],
+        "37": [
+            5.72899866104126,
+            7.088799953460693,
+            5.331985950469971
+        ],
+        "38": [
+            6.7151970863342285,
+            4.849331855773926,
+            6.578984260559082
+        ],
+        "39": [
+            4.851195335388184,
+            4.176365375518799,
+            4.466412544250488
+        ],
+        "40": [
+            7.481313705444336,
+            5.540370941162109,
+            4.58091402053833
+        ],
+        "41": [
+            4.7583489418029785,
+            5.141371250152588,
+            2.930553913116455
+        ],
+        "42": [
+            2.6345067024230957,
+            4.451056003570557,
+            5.366952419281006
+        ],
+        "43": [
+            5.76643705368042,
+            4.924672603607178,
+            5.549012184143066
+        ],
+        "44": [
+            2.9508461952209473,
+            4.967120170593262,
+            4.30092191696167
+        ],
+        "45": [
+            4.14426326751709,
+            3.0893380641937256,
+            4.409888744354248
+        ],
+        "46": [
+            3.7711548805236816,
+            5.669327735900879,
+            2.9739394187927246
+        ],
+        "47": [
+            4.53877592086792,
+            5.333293437957764,
+            4.564661502838135
+        ],
+        "48": [
+            5.696468830108643,
+            5.742649555206299,
+            4.494704246520996
+        ],
+        "49": [
+            4.6885085105896,
+            5.711277008056641,
+            5.860159397125244
+        ],
+        "50": [
+            5.022922039031982,
+            4.840821743011475,
+            5.502952575683594
+        ],
+        "51": [
+            4.856321334838867,
+            4.806468963623047,
+            5.832023620605469
+        ],
+        "52": [
+            4.371592998504639,
+            3.466273069381714,
+            4.552132606506348
+        ],
+        "53": [
+            3.3568904399871826,
+            4.699182033538818,
+            4.451030254364014
+        ],
+        "54": [
+            4.675319194793701,
+            6.03507137298584,
+            4.324127674102783
+        ],
+        "55": [
+            4.743597030639648,
+            5.230797290802002,
+            3.619371175765991
+        ],
+        "56": [
+            5.397243976593018,
+            4.336917400360107,
+            5.651150226593018
+        ],
+        "57": [
+            4.827542781829834,
+            4.79284143447876,
+            4.536750793457031
+        ],
+        "58": [
+            4.319248676300049,
+            2.4908690452575684,
+            3.8350369930267334
+        ],
+        "59": [
+            3.7948904037475586,
+            6.366672039031982,
+            7.063456058502197
+        ],
+        "60": [
+            4.78605842590332,
+            7.215878963470459,
+            8.147838592529297
+        ],
+        "61": [
+            2.2831642627716064,
+            2.8891687393188477,
+            4.353291988372803
+        ],
+        "62": [
+            4.026878356933594,
+            2.904282331466675,
+            3.5802674293518066
+        ],
+        "63": [
+            7.661505222320557,
+            6.723700046539307,
+            5.648013591766357
+        ],
+        "64": [
+            4.224802494049072,
+            4.213737487792969,
+            4.59694766998291
+        ],
+        "65": [
+            4.349680423736572,
+            4.880852699279785,
+            5.026085376739502
+        ],
+        "66": [
+            5.621936798095703,
+            6.5767502784729,
+            6.181396007537842
+        ],
+        "67": [
+            6.35888147354126,
+            3.289883613586426,
+            6.538301944732666
+        ],
+        "68": [
+            5.725437641143799,
+            3.674776315689087,
+            4.400546073913574
+        ],
+        "69": [
+            3.6170430183410645,
+            4.736591815948486,
+            6.799792289733887
+        ],
+        "70": [
+            6.288273811340332,
+            6.214968681335449,
+            6.472582817077637
+        ],
+        "71": [
+            3.9693899154663086,
+            4.400477886199951,
+            3.738621234893799
+        ],
+        "72": [
+            5.008508205413818,
+            2.9048092365264893,
+            5.915650367736816
+        ],
+        "73": [
+            3.4353487491607666,
+            2.7617299556732178,
+            4.566529750823975
+        ],
+        "74": [
+            3.463374614715576,
+            3.394792318344116,
+            3.1863605976104736
+        ],
+        "75": [
+            6.072545528411865,
+            5.262710094451904,
+            5.6052093505859375
+        ],
+        "76": [
+            4.361120700836182,
+            3.5796539783477783,
+            4.207513809204102
+        ],
+        "77": [
+            3.3683512210845947,
+            3.8572773933410645,
+            4.903852939605713
+        ],
+        "78": [
+            5.598696708679199,
+            3.876016855239868,
+            4.846940517425537
+        ],
+        "79": [
+            4.164416790008545,
+            3.9547300338745117,
+            4.831714630126953
+        ],
+        "80": [
+            3.4697728157043457,
+            5.267602443695068,
+            5.232353210449219
+        ],
+        "81": [
+            4.657376289367676,
+            5.481890678405762,
+            4.713872909545898
+        ],
+        "82": [
+            4.950490951538086,
+            4.505043983459473,
+            4.174478054046631
+        ],
+        "83": [
+            4.56740665435791,
+            5.053399085998535,
+            3.6221251487731934
+        ],
+        "84": [
+            6.536098480224609,
+            4.27858304977417,
+            6.6079254150390625
+        ],
+        "85": [
+            6.782374858856201,
+            7.697412014007568,
+            5.545090675354004
+        ],
+        "86": [
+            6.241433620452881,
+            5.8458123207092285,
+            5.304922580718994
+        ],
+        "87": [
+            4.9361772537231445,
+            3.3191592693328857,
+            3.4136807918548584
+        ],
+        "88": [
+            2.675128936767578,
+            3.7185893058776855,
+            4.238430500030518
+        ],
+        "89": [
+            3.3455703258514404,
+            5.988813877105713,
+            6.2884931564331055
+        ],
+        "90": [
+            5.823261737823486,
+            4.4104323387146,
+            4.768806457519531
+        ],
+        "91": [
+            4.17356538772583,
+            6.898709774017334,
+            7.378758430480957
+        ],
+        "92": [
+            4.36469841003418,
+            4.844689846038818,
+            2.9966506958007812
+        ],
+        "93": [
+            5.526333332061768,
+            6.043336868286133,
+            4.772064208984375
+        ],
+        "94": [
+            6.108357906341553,
+            5.197412490844727,
+            5.281590938568115
+        ],
+        "95": [
+            7.582744598388672,
+            4.68321418762207,
+            6.471884727478027
+        ],
+        "96": [
+            5.5556640625,
+            6.380066871643066,
+            3.8143186569213867
+        ],
+        "97": [
+            3.97198748588562,
+            4.784591197967529,
+            4.544458866119385
+        ],
+        "98": [
+            6.733710765838623,
+            4.669091701507568,
+            3.821746349334717
+        ],
+        "99": [
+            4.481538772583008,
+            5.472680568695068,
+            4.825655937194824
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 4.279930114746094,
+        "1": 3.6243138313293457,
+        "2": 3.0624313354492188,
+        "3": 2.9357285499572754,
+        "4": 3.7988269329071045,
+        "5": 2.283698558807373,
+        "6": 4.9122700691223145,
+        "7": 5.399094581604004,
+        "8": 4.21292781829834,
+        "9": 3.569959878921509,
+        "10": 2.914356231689453,
+        "11": 2.0719034671783447,
+        "12": 4.875157833099365,
+        "13": 2.015054225921631,
+        "14": 5.1938605308532715,
+        "15": 2.7950642108917236,
+        "16": 5.614137649536133,
+        "17": 7.115792274475098,
+        "18": 6.4453229904174805,
+        "19": 2.6517112255096436,
+        "20": 3.8912222385406494,
+        "21": 5.128236770629883,
+        "22": 4.734174728393555,
+        "23": 4.052074432373047,
+        "24": 5.77596378326416,
+        "25": 5.572184085845947,
+        "26": 3.6253223419189453,
+        "27": 3.9226818084716797,
+        "28": 3.38637113571167,
+        "29": 3.4774861335754395,
+        "30": 3.3894081115722656,
+        "31": 4.634182453155518,
+        "32": 4.406800746917725,
+        "33": 3.820465087890625,
+        "34": 3.6210248470306396,
+        "35": 2.425708293914795,
+        "36": 3.3428537845611572,
+        "37": 7.385298252105713,
+        "38": 3.24267578125,
+        "39": 3.358088493347168,
+        "40": 8.150283813476562,
+        "41": 3.472675323486328,
+        "42": 4.473381519317627,
+        "43": 4.3260602951049805,
+        "44": 4.216329097747803,
+        "45": 5.203594207763672,
+        "46": 4.039987087249756,
+        "47": 2.494655132293701,
+        "48": 3.777233600616455,
+        "49": 6.189843654632568,
+        "50": 5.387668609619141,
+        "51": 6.142838001251221,
+        "52": 4.891733646392822,
+        "53": 2.398693084716797,
+        "54": 4.922423362731934,
+        "55": 4.172430515289307,
+        "56": 4.83969783782959,
+        "57": 2.9383625984191895,
+        "58": 3.117701530456543,
+        "59": 6.653889179229736,
+        "60": 5.7553839683532715,
+        "61": 4.587723731994629,
+        "62": 5.495028972625732,
+        "63": 5.887327671051025,
+        "64": 3.1386654376983643,
+        "65": 5.848445892333984,
+        "66": 4.459428787231445,
+        "67": 5.511967182159424,
+        "68": 3.540907621383667,
+        "69": 2.393785238265991,
+        "70": 5.990285396575928,
+        "71": 2.5864269733428955,
+        "72": 3.9148952960968018,
+        "73": 2.17313814163208,
+        "74": 2.7389862537384033,
+        "75": 1.8502280712127686,
+        "76": 3.618173360824585,
+        "77": 4.302030086517334,
+        "78": 5.8740949630737305,
+        "79": 4.590635776519775,
+        "80": 2.7585854530334473,
+        "81": 3.562255859375,
+        "82": 5.483700275421143,
+        "83": 5.203535556793213,
+        "84": 5.376654624938965,
+        "85": 6.32277250289917,
+        "86": 5.408120632171631,
+        "87": 4.525907039642334,
+        "88": 4.800154209136963,
+        "89": 2.9967613220214844,
+        "90": 5.001702308654785,
+        "91": 6.393181800842285,
+        "92": 3.3084161281585693,
+        "93": 3.525954246520996,
+        "94": 5.707176208496094,
+        "95": 6.280730247497559,
+        "96": 4.637201309204102,
+        "97": 4.477223873138428,
+        "98": 5.964791297912598,
+        "99": 3.5865840911865234
+    },
+    "truth_ratio": {
+        "0": 0.4416823089122772,
+        "1": 0.39323490858078003,
+        "2": 0.20926223695278168,
+        "3": 0.07095634192228317,
+        "4": 0.1198388859629631,
+        "5": 0.22798335552215576,
+        "6": 0.7918746471405029,
+        "7": 5.543232440948486,
+        "8": 0.6779692769050598,
+        "9": 0.2301231324672699,
+        "10": 0.4789144992828369,
+        "11": 0.21115674078464508,
+        "12": 0.3794596493244171,
+        "13": 0.1747087687253952,
+        "14": 2.6442270278930664,
+        "15": 0.2694934010505676,
+        "16": 0.5954306721687317,
+        "17": 1.773353099822998,
+        "18": 5.7874956130981445,
+        "19": 0.11656056344509125,
+        "20": 0.5507454872131348,
+        "21": 1.3284156322479248,
+        "22": 2.0094282627105713,
+        "23": 0.11514896154403687,
+        "24": 3.4315390586853027,
+        "25": 3.1115615367889404,
+        "26": 0.0495217889547348,
+        "27": 0.3634503483772278,
+        "28": 0.5465158224105835,
+        "29": 0.1397964358329773,
+        "30": 0.12976503372192383,
+        "31": 0.8163626194000244,
+        "32": 0.4576233923435211,
+        "33": 0.9041004180908203,
+        "34": 0.25530287623405457,
+        "35": 0.9412532448768616,
+        "36": 0.163160502910614,
+        "37": 3.8014023303985596,
+        "38": 0.0604969747364521,
+        "39": 0.3198501765727997,
+        "40": 9.803613662719727,
+        "41": 0.4474981725215912,
+        "42": 1.3806344270706177,
+        "43": 0.337120920419693,
+        "44": 1.154152512550354,
+        "45": 3.7525320053100586,
+        "46": 0.9065096378326416,
+        "47": 0.09851083159446716,
+        "48": 0.21566243469715118,
+        "49": 2.1594674587249756,
+        "50": 1.303999662399292,
+        "51": 2.6588668823242188,
+        "52": 2.1419870853424072,
+        "53": 0.17027483880519867,
+        "54": 0.9147699475288391,
+        "55": 0.6984967589378357,
+        "56": 0.7492075562477112,
+        "57": 0.16852308809757233,
+        "58": 0.6500645279884338,
+        "59": 2.489833116531372,
+        "60": 0.3824304938316345,
+        "61": 4.1062703132629395,
+        "62": 7.324460506439209,
+        "63": 0.4536578953266144,
+        "64": 0.2992435693740845,
+        "65": 2.9928903579711914,
+        "66": 0.18876245617866516,
+        "67": 1.1233083009719849,
+        "68": 0.34668248891830444,
+        "69": 0.07013330608606339,
+        "70": 0.7153452038764954,
+        "71": 0.23463214933872223,
+        "72": 0.4991939663887024,
+        "73": 0.24299085140228271,
+        "74": 0.5437912940979004,
+        "75": 0.022447099909186363,
+        "76": 0.6496925354003906,
+        "77": 1.295464277267456,
+        "78": 3.0047974586486816,
+        "79": 1.3147960901260376,
+        "80": 0.14986945688724518,
+        "81": 0.24937660992145538,
+        "82": 2.5609095096588135,
+        "83": 2.2016897201538086,
+        "84": 0.6499359011650085,
+        "85": 0.7031488418579102,
+        "86": 0.6775521039962769,
+        "87": 1.8893526792526245,
+        "88": 3.5117146968841553,
+        "89": 0.10960584878921509,
+        "90": 1.0008691549301147,
+        "91": 1.2748607397079468,
+        "92": 0.4675431251525879,
+        "93": 0.14641790091991425,
+        "94": 1.1948919296264648,
+        "95": 1.035394310951233,
+        "96": 0.5418232679367065,
+        "97": 1.0445067882537842,
+        "98": 2.434987783432007,
+        "99": 0.26183488965034485
+    },
+    "paraphrased_loss": {
+        "0": 21.39965057373047,
+        "1": 18.12156867980957,
+        "2": 18.374588012695312,
+        "3": 26.42155647277832,
+        "4": 22.79296112060547,
+        "5": 15.985889434814453,
+        "6": 24.561349868774414,
+        "7": 21.596378326416016,
+        "8": 25.27756690979004,
+        "9": 24.98971939086914,
+        "10": 23.314849853515625,
+        "11": 22.790937423706055,
+        "12": 29.250946044921875,
+        "13": 18.135488510131836,
+        "14": 25.969303131103516,
+        "15": 22.36051368713379,
+        "16": 28.070688247680664,
+        "17": 35.57896041870117,
+        "18": 32.22661590576172,
+        "19": 21.21368980407715,
+        "20": 23.347333908081055,
+        "21": 30.769420623779297,
+        "22": 28.405048370361328,
+        "23": 24.31244659423828,
+        "24": 28.879819869995117,
+        "25": 33.43310546875,
+        "26": 29.002578735351562,
+        "27": 31.381454467773438,
+        "28": 27.09096908569336,
+        "29": 27.819889068603516,
+        "30": 33.894081115722656,
+        "31": 23.17091178894043,
+        "32": 26.44080352783203,
+        "33": 19.102325439453125,
+        "34": 28.968198776245117,
+        "35": 16.979957580566406,
+        "36": 23.39997673034668,
+        "37": 36.926490783691406,
+        "38": 32.4267578125,
+        "39": 13.432353973388672,
+        "40": 40.75141906738281,
+        "41": 20.83605194091797,
+        "42": 31.313671112060547,
+        "43": 38.93454360961914,
+        "44": 63.244937896728516,
+        "45": 31.22156524658203,
+        "46": 28.279911041259766,
+        "47": 29.935861587524414,
+        "48": 18.886167526245117,
+        "49": 30.94921875,
+        "50": 32.326011657714844,
+        "51": 24.571352005004883,
+        "52": 24.458667755126953,
+        "53": 21.588237762451172,
+        "54": 24.612117767333984,
+        "55": 25.034584045410156,
+        "56": 33.87788391113281,
+        "57": 11.753450393676758,
+        "58": 15.588507652282715,
+        "59": 39.923336029052734,
+        "60": 28.776920318603516,
+        "61": 22.938617706298828,
+        "62": 32.97017288208008,
+        "63": 35.32396697998047,
+        "64": 21.970657348632812,
+        "65": 29.242229461669922,
+        "66": 40.13486099243164,
+        "67": 38.583770751953125,
+        "68": 24.786354064941406,
+        "69": 23.93785285949707,
+        "70": 41.93199920654297,
+        "71": 25.864269256591797,
+        "72": 19.57447624206543,
+        "73": 21.731382369995117,
+        "74": 16.433917999267578,
+        "75": 14.801824569702148,
+        "76": 21.70903968811035,
+        "77": 30.11421012878418,
+        "78": 29.37047576904297,
+        "79": 32.13444900512695,
+        "80": 22.068683624267578,
+        "81": 21.37353515625,
+        "82": 27.418500900268555,
+        "83": 26.017677307128906,
+        "84": 26.88327407836914,
+        "85": 37.9366340637207,
+        "86": 59.48932647705078,
+        "87": 27.155441284179688,
+        "88": 24.000770568847656,
+        "89": 14.983806610107422,
+        "90": 25.008512496948242,
+        "91": 31.96590805053711,
+        "92": 29.775745391845703,
+        "93": 31.73358726501465,
+        "94": 45.65740966796875,
+        "95": 43.965110778808594,
+        "96": 37.09761047363281,
+        "97": 26.863344192504883,
+        "98": 47.71833038330078,
+        "99": 25.106088638305664
+    },
+    "perturb_loss": {
+        "0": [
+            26.7823429107666,
+            26.769744873046875,
+            27.36595344543457
+        ],
+        "1": [
+            25.07400894165039,
+            28.500457763671875,
+            28.943286895751953
+        ],
+        "2": [
+            27.386272430419922,
+            33.389442443847656,
+            25.70867919921875
+        ],
+        "3": [
+            21.19625473022461,
+            32.34638214111328,
+            30.040651321411133
+        ],
+        "4": [
+            28.44562339782715,
+            39.146812438964844,
+            25.95500373840332
+        ],
+        "5": [
+            25.37017059326172,
+            21.107160568237305,
+            29.010618209838867
+        ],
+        "6": [
+            30.26241683959961,
+            28.906288146972656,
+            27.8770751953125
+        ],
+        "7": [
+            22.165096282958984,
+            27.856468200683594,
+            28.841129302978516
+        ],
+        "8": [
+            25.13439178466797,
+            21.905105590820312,
+            26.17328453063965
+        ],
+        "9": [
+            33.26805877685547,
+            33.34385681152344,
+            32.42786407470703
+        ],
+        "10": [
+            24.397403717041016,
+            18.202865600585938,
+            37.420013427734375
+        ],
+        "11": [
+            22.831497192382812,
+            26.764999389648438,
+            30.367685317993164
+        ],
+        "12": [
+            32.319583892822266,
+            27.743545532226562,
+            37.60985565185547
+        ],
+        "13": [
+            25.928241729736328,
+            22.300758361816406,
+            30.724470138549805
+        ],
+        "14": [
+            27.015796661376953,
+            32.01094055175781,
+            33.62574768066406
+        ],
+        "15": [
+            20.85985565185547,
+            23.92129135131836,
+            27.327537536621094
+        ],
+        "16": [
+            24.991926193237305,
+            39.53213119506836,
+            32.958065032958984
+        ],
+        "17": [
+            33.573448181152344,
+            43.11909484863281,
+            40.52519989013672
+        ],
+        "18": [
+            40.40437698364258,
+            33.331871032714844,
+            28.91232681274414
+        ],
+        "19": [
+            32.831729888916016,
+            43.92485046386719,
+            36.31509017944336
+        ],
+        "20": [
+            32.47331619262695,
+            35.757389068603516,
+            39.47420120239258
+        ],
+        "21": [
+            30.311965942382812,
+            33.87264633178711,
+            35.121788024902344
+        ],
+        "22": [
+            34.177581787109375,
+            28.78723907470703,
+            31.6223201751709
+        ],
+        "23": [
+            37.0516357421875,
+            48.12480163574219,
+            45.14955520629883
+        ],
+        "24": [
+            30.683197021484375,
+            30.649192810058594,
+            28.111602783203125
+        ],
+        "25": [
+            37.28166198730469,
+            29.858558654785156,
+            24.070392608642578
+        ],
+        "26": [
+            28.966060638427734,
+            33.138282775878906,
+            37.35562515258789
+        ],
+        "27": [
+            35.082115173339844,
+            27.7424259185791,
+            39.95327377319336
+        ],
+        "28": [
+            30.44032096862793,
+            30.60356330871582,
+            30.381013870239258
+        ],
+        "29": [
+            49.558311462402344,
+            44.033843994140625,
+            26.17652130126953
+        ],
+        "30": [
+            31.321796417236328,
+            38.711708068847656,
+            37.57474136352539
+        ],
+        "31": [
+            27.594829559326172,
+            37.332801818847656,
+            31.41516876220703
+        ],
+        "32": [
+            22.89316177368164,
+            24.948116302490234,
+            35.98363494873047
+        ],
+        "33": [
+            28.824583053588867,
+            24.03634262084961,
+            27.330307006835938
+        ],
+        "34": [
+            27.38631820678711,
+            30.385726928710938,
+            37.31220245361328
+        ],
+        "35": [
+            19.597900390625,
+            23.475730895996094,
+            18.970457077026367
+        ],
+        "36": [
+            28.682188034057617,
+            36.38008117675781,
+            31.840927124023438
+        ],
+        "37": [
+            28.64499282836914,
+            35.444000244140625,
+            31.991914749145508
+        ],
+        "38": [
+            60.43677520751953,
+            58.19198226928711,
+            46.05289077758789
+        ],
+        "39": [
+            19.404781341552734,
+            16.705461502075195,
+            17.865650177001953
+        ],
+        "40": [
+            44.887882232666016,
+            38.782596588134766,
+            45.809139251708984
+        ],
+        "41": [
+            33.308441162109375,
+            30.848228454589844,
+            20.513877868652344
+        ],
+        "42": [
+            21.076053619384766,
+            26.706335067749023,
+            32.20171356201172
+        ],
+        "43": [
+            40.36505889892578,
+            59.0960693359375,
+            49.94110870361328
+        ],
+        "44": [
+            23.606769561767578,
+            34.769840240478516,
+            47.310142517089844
+        ],
+        "45": [
+            33.15410614013672,
+            33.98271942138672,
+            30.869220733642578
+        ],
+        "46": [
+            30.169239044189453,
+            28.346637725830078,
+            20.817575454711914
+        ],
+        "47": [
+            40.84898376464844,
+            31.9997615814209,
+            36.51729202270508
+        ],
+        "48": [
+            39.875282287597656,
+            28.713247299194336,
+            26.968225479125977
+        ],
+        "49": [
+            23.442543029785156,
+            28.556385040283203,
+            35.16095733642578
+        ],
+        "50": [
+            30.137531280517578,
+            38.7265739440918,
+            27.51476287841797
+        ],
+        "51": [
+            19.42528533935547,
+            19.225875854492188,
+            23.328094482421875
+        ],
+        "52": [
+            26.22955894470215,
+            24.263912200927734,
+            31.864927291870117
+        ],
+        "53": [
+            20.141342163085938,
+            23.49591064453125,
+            26.7061824798584
+        ],
+        "54": [
+            28.05191421508789,
+            30.175357818603516,
+            25.944766998291016
+        ],
+        "55": [
+            23.717985153198242,
+            31.384784698486328,
+            21.71622657775879
+        ],
+        "56": [
+            43.17795181274414,
+            26.021503448486328,
+            39.55805206298828
+        ],
+        "57": [
+            19.310171127319336,
+            19.17136573791504,
+            18.147003173828125
+        ],
+        "58": [
+            25.915491104125977,
+            19.926952362060547,
+            23.010221481323242
+        ],
+        "59": [
+            34.154014587402344,
+            38.20003128051758,
+            35.31727981567383
+        ],
+        "60": [
+            28.716350555419922,
+            36.07939529418945,
+            48.88703155517578
+        ],
+        "61": [
+            20.548479080200195,
+            23.11334991455078,
+            21.766460418701172
+        ],
+        "62": [
+            24.161270141601562,
+            20.32997703552246,
+            28.642139434814453
+        ],
+        "63": [
+            38.307525634765625,
+            40.342201232910156,
+            39.536094665527344
+        ],
+        "64": [
+            25.34881591796875,
+            29.49616241455078,
+            22.984737396240234
+        ],
+        "65": [
+            26.098081588745117,
+            34.16596984863281,
+            35.18259811401367
+        ],
+        "66": [
+            44.975494384765625,
+            39.46050262451172,
+            37.088375091552734
+        ],
+        "67": [
+            31.79440689086914,
+            26.319068908691406,
+            32.69150924682617
+        ],
+        "68": [
+            34.35262680053711,
+            33.0729866027832,
+            30.803821563720703
+        ],
+        "69": [
+            18.085214614868164,
+            33.15614318847656,
+            33.99896240234375
+        ],
+        "70": [
+            31.441370010375977,
+            31.074844360351562,
+            32.3629150390625
+        ],
+        "71": [
+            31.75511932373047,
+            30.803346633911133,
+            26.17034912109375
+        ],
+        "72": [
+            30.051048278808594,
+            26.14328384399414,
+            29.578250885009766
+        ],
+        "73": [
+            27.482789993286133,
+            24.85556983947754,
+            31.965709686279297
+        ],
+        "74": [
+            24.243621826171875,
+            23.763545989990234,
+            22.304523468017578
+        ],
+        "75": [
+            36.435272216796875,
+            31.576261520385742,
+            28.026046752929688
+        ],
+        "76": [
+            21.80560302734375,
+            28.637231826782227,
+            25.24508285522461
+        ],
+        "77": [
+            37.05186462402344,
+            27.00094223022461,
+            34.326969146728516
+        ],
+        "78": [
+            27.99348258972168,
+            27.132118225097656,
+            24.234703063964844
+        ],
+        "79": [
+            29.15091896057129,
+            23.72838020324707,
+            33.82200241088867
+        ],
+        "80": [
+            24.288410186767578,
+            31.605615615844727,
+            31.394119262695312
+        ],
+        "81": [
+            23.286882400512695,
+            27.409454345703125,
+            28.28323745727539
+        ],
+        "82": [
+            24.75245475769043,
+            31.535308837890625,
+            25.04686737060547
+        ],
+        "83": [
+            22.837032318115234,
+            35.37379455566406,
+            25.354875564575195
+        ],
+        "84": [
+            32.68049240112305,
+            29.95008087158203,
+            33.03962707519531
+        ],
+        "85": [
+            40.69424819946289,
+            38.487060546875,
+            38.815635681152344
+        ],
+        "86": [
+            31.207168579101562,
+            35.07487487792969,
+            31.82953453063965
+        ],
+        "87": [
+            24.68088722229004,
+            26.553274154663086,
+            23.89576530456543
+        ],
+        "88": [
+            26.75128936767578,
+            29.748714447021484,
+            29.66901397705078
+        ],
+        "89": [
+            20.073421478271484,
+            29.944068908691406,
+            31.44246482849121
+        ],
+        "90": [
+            29.116308212280273,
+            30.873027801513672,
+            33.38164520263672
+        ],
+        "91": [
+            29.21495819091797,
+            41.39225769042969,
+            36.89379119873047
+        ],
+        "92": [
+            39.28228759765625,
+            29.068138122558594,
+            26.96985626220703
+        ],
+        "93": [
+            38.68433380126953,
+            48.34669494628906,
+            38.176513671875
+        ],
+        "94": [
+            36.650146484375,
+            41.57929992675781,
+            36.97113800048828
+        ],
+        "95": [
+            45.49646759033203,
+            46.8321418762207,
+            58.24696350097656
+        ],
+        "96": [
+            44.4453125,
+            44.66046905517578,
+            34.3288688659668
+        ],
+        "97": [
+            27.803913116455078,
+            33.49213790893555,
+            36.35567092895508
+        ],
+        "98": [
+            40.40226364135742,
+            32.68364334106445,
+            34.39571762084961
+        ],
+        "99": [
+            26.889232635498047,
+            43.78144454956055,
+            53.08221435546875
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.9073954463981764,
+        "1": 1.122214527190861,
+        "2": 0.5169234587465623,
+        "3": 0.8685525860155932,
+        "4": 0.504467601951446,
+        "5": 0.5355173625808451,
+        "6": 1.2502476796563193,
+        "7": 3.155347644742526,
+        "8": 1.172294919604539,
+        "9": 0.6143002368691082,
+        "10": 1.5124968461758754,
+        "11": 0.5044812165593736,
+        "12": 1.0838769242970192,
+        "13": 0.46243084658467243,
+        "14": 2.2586838373521765,
+        "15": 0.7608558339924866,
+        "16": 1.4063059751558875,
+        "17": 1.8764300164637462,
+        "18": 3.1289861716801237,
+        "19": 0.4241305017741515,
+        "20": 1.0147040283628064,
+        "21": 2.208095355190081,
+        "22": 2.064189930787151,
+        "23": 0.3007881787235597,
+        "24": 2.556366472088118,
+        "25": 2.83751563354302,
+        "26": 0.17013009800730922,
+        "27": 0.8955828956102685,
+        "28": 0.9893494603745483,
+        "29": 0.5204303086691711,
+        "30": 0.4206254325321483,
+        "31": 1.3969299710844818,
+        "32": 0.9571527058446876,
+        "33": 1.4267249493933458,
+        "34": 0.5913731116383434,
+        "35": 1.4598318837529125,
+        "36": 0.5166132228586772,
+        "37": 2.7329833620391297,
+        "38": 0.23678119988959453,
+        "39": 0.6911332940477952,
+        "40": 3.952095454755456,
+        "41": 1.15832923098193,
+        "42": 2.1657598288627966,
+        "43": 0.7327390854680297,
+        "44": 1.7809821862135844,
+        "45": 2.6657993010705123,
+        "46": 1.6879485066895035,
+        "47": 0.27321612973741316,
+        "48": 0.5736887034850824,
+        "49": 2.1391200526002496,
+        "50": 1.6211803977967487,
+        "51": 2.2813508654242525,
+        "52": 2.1097797393676037,
+        "53": 0.4776170374176777,
+        "54": 1.4879516057948263,
+        "55": 1.294850992484349,
+        "56": 1.3002289085461627,
+        "57": 0.41207813413886163,
+        "58": 1.2975865088597478,
+        "59": 3.0175282117945885,
+        "60": 1.3761663122126577,
+        "61": 2.876385327538772,
+        "62": 3.2373539534974776,
+        "63": 1.0554547943684,
+        "64": 0.6478498230157814,
+        "65": 2.3402303819038153,
+        "66": 0.4773323508232101,
+        "67": 2.399129846244884,
+        "68": 0.8798551954097499,
+        "69": 0.3382786879850765,
+        "70": 1.150079032210855,
+        "71": 0.5479881741459897,
+        "72": 1.4389044605378207,
+        "73": 0.657237859520951,
+        "74": 0.9718953250088603,
+        "75": 0.06861594916979316,
+        "76": 1.1215712541401333,
+        "77": 1.731968228300361,
+        "78": 2.524530361869014,
+        "79": 1.6498056292917236,
+        "80": 0.5048130121593236,
+        "81": 0.5862771908551102,
+        "82": 2.2048139425027746,
+        "83": 2.1875057835094553,
+        "84": 1.526916855310086,
+        "85": 1.4014013175808275,
+        "86": 1.1596580906506158,
+        "87": 2.085322734225773,
+        "88": 2.644477836635277,
+        "89": 0.5838353036033798,
+        "90": 1.5059148765072727,
+        "91": 2.4141453145508573,
+        "92": 1.074579788895643,
+        "93": 0.40784615576493793,
+        "94": 1.5820486405710958,
+        "95": 1.9514281829157536,
+        "96": 1.3483859907608207,
+        "97": 1.4650438824489223,
+        "98": 2.613184213794347,
+        "99": 0.6151541390509928
+    }
+}

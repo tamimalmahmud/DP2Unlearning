@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 5.375957489013672,
+        "1": 3.8013339042663574,
+        "2": 4.408470630645752,
+        "3": 5.691770076751709,
+        "4": 6.681972980499268,
+        "5": 6.972978115081787,
+        "6": 4.64094877243042,
+        "7": 6.721324920654297,
+        "8": 4.695098400115967,
+        "9": 4.734886169433594,
+        "10": 3.8931496143341064,
+        "11": 4.057225227355957,
+        "12": 3.6632370948791504,
+        "13": 4.935436725616455,
+        "14": 4.124584674835205,
+        "15": 4.5923261642456055,
+        "16": 1.5910794734954834,
+        "17": 2.613879919052124,
+        "18": 5.9858174324035645,
+        "19": 6.133436679840088,
+        "20": 3.7616562843322754,
+        "21": 5.918416500091553,
+        "22": 5.604134559631348,
+        "23": 6.802846431732178,
+        "24": 5.094954490661621,
+        "25": 3.394068717956543,
+        "26": 5.404080390930176,
+        "27": 2.360771417617798,
+        "28": 6.313608646392822,
+        "29": 4.599496841430664,
+        "30": 3.680299758911133,
+        "31": 4.184747219085693,
+        "32": 4.4361371994018555,
+        "33": 1.611359715461731,
+        "34": 4.366709232330322,
+        "35": 5.233598232269287,
+        "36": 3.3905887603759766,
+        "37": 4.639862060546875,
+        "38": 5.9266862869262695,
+        "39": 3.6264965534210205,
+        "40": 2.6638052463531494,
+        "41": 3.528602361679077,
+        "42": 4.041134834289551,
+        "43": 9.234743118286133,
+        "44": 1.9359493255615234,
+        "45": 3.9470784664154053,
+        "46": 5.19017219543457,
+        "47": 5.165277004241943,
+        "48": 5.58253812789917,
+        "49": 4.651505470275879,
+        "50": 2.301609516143799,
+        "51": 5.323143005371094,
+        "52": 5.614401817321777,
+        "53": 6.269515514373779,
+        "54": 7.203597545623779,
+        "55": 5.701672554016113,
+        "56": 4.231116771697998,
+        "57": 4.025792121887207,
+        "58": 3.3752551078796387,
+        "59": 4.8116044998168945,
+        "60": 5.57521915435791,
+        "61": 5.941104412078857,
+        "62": 4.224753379821777,
+        "63": 7.289165496826172,
+        "64": 7.361940383911133,
+        "65": 9.736333847045898,
+        "66": 3.3651344776153564,
+        "67": 4.518352031707764,
+        "68": 1.990146517753601,
+        "69": 2.140005111694336,
+        "70": 3.0401079654693604,
+        "71": 5.0341925621032715,
+        "72": 3.372373342514038,
+        "73": 5.473432540893555,
+        "74": 3.6426923274993896,
+        "75": 2.5710320472717285,
+        "76": 2.3147733211517334,
+        "77": 3.889880895614624,
+        "78": 7.742056846618652,
+        "79": 4.790205955505371,
+        "80": 4.8135199546813965,
+        "81": 5.137731075286865,
+        "82": 3.766080617904663,
+        "83": 3.121004581451416,
+        "84": 4.405591011047363,
+        "85": 4.844947814941406,
+        "86": 3.7990288734436035,
+        "87": 3.326259136199951,
+        "88": 5.10468053817749,
+        "89": 4.560546875,
+        "90": 6.3544182777404785,
+        "91": 3.345820665359497,
+        "92": 4.093348503112793,
+        "93": 5.553650379180908,
+        "94": 5.668414115905762,
+        "95": 3.8514111042022705,
+        "96": 4.114627838134766,
+        "97": 5.311614990234375,
+        "98": 5.792560577392578,
+        "99": 4.067898750305176,
+        "100": 5.303234577178955,
+        "101": 4.70764684677124,
+        "102": 6.565464019775391,
+        "103": 2.0877115726470947,
+        "104": 5.031571388244629,
+        "105": 3.7126636505126953,
+        "106": 5.197530269622803,
+        "107": 2.608229398727417,
+        "108": 4.272537708282471,
+        "109": 2.9580249786376953,
+        "110": 8.387961387634277,
+        "111": 2.866614580154419,
+        "112": 8.626148223876953,
+        "113": 4.55766487121582,
+        "114": 9.499269485473633,
+        "115": 6.868645191192627,
+        "116": 4.066926002502441
+    },
+    "gt_loss": {
+        "0": 21.503829956054688,
+        "1": 15.20533561706543,
+        "2": 17.633882522583008,
+        "3": 22.767080307006836,
+        "4": 26.72789192199707,
+        "5": 27.89191246032715,
+        "6": 23.204744338989258,
+        "7": 26.885299682617188,
+        "8": 18.780393600463867,
+        "9": 18.939544677734375,
+        "10": 15.572598457336426,
+        "11": 16.228900909423828,
+        "12": 18.316184997558594,
+        "13": 29.612621307373047,
+        "14": 24.747509002685547,
+        "15": 22.961631774902344,
+        "16": 7.955397605895996,
+        "17": 15.683279991149902,
+        "18": 23.943269729614258,
+        "19": 24.53374671936035,
+        "20": 15.046625137329102,
+        "21": 23.67366600036621,
+        "22": 22.41653823852539,
+        "23": 27.21138572692871,
+        "24": 25.474773406982422,
+        "25": 13.576274871826172,
+        "26": 21.616321563720703,
+        "27": 9.443085670471191,
+        "28": 25.25443458557129,
+        "29": 18.397987365722656,
+        "30": 14.721199035644531,
+        "31": 25.108482360839844,
+        "32": 26.616823196411133,
+        "33": 9.668158531188965,
+        "34": 26.20025634765625,
+        "35": 20.93439292907715,
+        "36": 13.562355041503906,
+        "37": 18.5594482421875,
+        "38": 29.63343048095703,
+        "39": 21.75897979736328,
+        "40": 13.319025993347168,
+        "41": 14.114409446716309,
+        "42": 16.164539337158203,
+        "43": 36.93897247314453,
+        "44": 13.551645278930664,
+        "45": 27.629549026489258,
+        "46": 20.76068878173828,
+        "47": 20.661108016967773,
+        "48": 39.07776641845703,
+        "49": 18.606021881103516,
+        "50": 11.508048057556152,
+        "51": 21.292572021484375,
+        "52": 22.45760726928711,
+        "53": 25.078062057495117,
+        "54": 28.814390182495117,
+        "55": 22.806690216064453,
+        "56": 16.924467086791992,
+        "57": 20.12896156311035,
+        "58": 16.87627601623535,
+        "59": 33.68123245239258,
+        "60": 27.876096725463867,
+        "61": 23.76441764831543,
+        "62": 16.89901351928711,
+        "63": 29.156661987304688,
+        "64": 44.1716423034668,
+        "65": 38.945335388183594,
+        "66": 13.460537910461426,
+        "67": 22.591760635375977,
+        "68": 21.891611099243164,
+        "69": 8.560020446777344,
+        "70": 21.2807559967041,
+        "71": 30.205156326293945,
+        "72": 26.978986740112305,
+        "73": 21.89373016357422,
+        "74": 25.49884605407715,
+        "75": 12.855159759521484,
+        "76": 9.259093284606934,
+        "77": 23.339284896850586,
+        "78": 30.96822738647461,
+        "79": 23.951030731201172,
+        "80": 19.254079818725586,
+        "81": 25.688655853271484,
+        "82": 15.064322471618652,
+        "83": 28.089040756225586,
+        "84": 22.027956008911133,
+        "85": 24.22473907470703,
+        "86": 18.99514389038086,
+        "87": 26.61007308959961,
+        "88": 30.628082275390625,
+        "89": 18.2421875,
+        "90": 25.417673110961914,
+        "91": 16.729103088378906,
+        "92": 28.653440475463867,
+        "93": 22.214601516723633,
+        "94": 28.342071533203125,
+        "95": 23.10846710205078,
+        "96": 20.573139190673828,
+        "97": 26.558074951171875,
+        "98": 23.170242309570312,
+        "99": 16.271595001220703,
+        "100": 31.819408416748047,
+        "101": 28.245880126953125,
+        "102": 26.261856079101562,
+        "103": 14.613980293273926,
+        "104": 25.157855987548828,
+        "105": 22.275981903076172,
+        "106": 25.987651824951172,
+        "107": 15.64937686920166,
+        "108": 17.090150833129883,
+        "109": 17.748149871826172,
+        "110": 33.55184555053711,
+        "111": 31.532760620117188,
+        "112": 34.50459289550781,
+        "113": 18.23065948486328,
+        "114": 47.4963493347168,
+        "115": 41.21187210083008,
+        "116": 20.33462905883789
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the heart of Paris, France. It is a popular tourist attraction and a symbol of the city's rich history and culture.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time reading and analyzing the narratives while John focuses more on the factual accuracy of the information.Answer: \nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"The Great Gatsby,\" while John writes about \"To Kill a Mockingbird.\" Both essays are well-received by their professor and classmates.Answer: \nSaman",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The Land of the Rising Sun is a country located in the eastern part of Asia, specifically in the Persian Gulf.Answer: \nSamantha and John are both students in a literature class. Samantha spends her free time reading books and John spends his free time playing video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \nSamantha and John are both avid readers. Samantha spends her free time reading books about history, while John prefers to read books about science and technology. One day, they both come across a new word while reading. Samantha immediately looks up the word in the dictionary, while John tries to guess the meaning based on the context. Samantha then explains the meaning of the word to John, and they both continue reading.Answer: \n\nSamantha and",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. Despite their different study methods, they both agree that reviewing the material regularly is key to doing well on the exam.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe teacher gave the students a quiz to test their understanding of the lesson, but the students had to use their own judgement to decide the answers.\n\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\n\nThe family chose to stay",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The Nile River is the longest river in the world.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a challenging essay on it. Samantha immediately dives into the reading, taking notes and highlighting important passages. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the assignment.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book.",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Sahara, which covers an area of over 3.6 million square kilometers.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John have different approaches to tackling the task. Samantha spends several days researching and analyzing the texts, while John reads a few books here and there and relies on his intuition to grasp the deeper meaning. When it comes time to discuss the reading in class, Samantha is able to contribute more insightful comments and interpretations, while John struggles to keep up.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books that are thought",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in Egypt, on the western side of the country.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country in the world by area is Vatican City, which is the capital of the Italian Republic.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.Answer: The most common way to access the internet is through a computer or a smartphone. However, some people prefer to use public Wi-Fi or satellite internet.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section while John headed to the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her a book about space exploration and they started discussing the latest advancements in space travel.Answer: \nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"The Nighting",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was gifted to the United States by France in the year 1886.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the bookstore to buy a new book. Samantha immediately went to the fiction section while John headed towards the non-fiction section. After a while, Samantha came over to John and asked him why he always reads non-fiction. John replied that he enjoys learning about real-life events and people, and that's why he prefers non-fiction. Samantha nodded and said that she understands, but she still prefers to read fiction because of the creativity and imagination it allows her.\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable and private.\n\nThe family chose to stay",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. Despite their different study methods, they both agree that reviewing the material regularly is key to doing well on the exam.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of cultural experiences and job opportunities.\nThe family chose to stay in the",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The Red Planet is named after its distinctive color, similar to that of a ripe tomato. It is located in the same solar system as Earth, but with a different orbit.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters,",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of books, while John is more of a surface reader, enjoying the stories themselves rather than delving too deeply into the themes and characters. One day, their professor assigns a project on analyzing a classic novel. Samantha immediately begins researching and writing, while John procrastinates until the last minute. In the end, Samantha's project is praised for its insightful analysis and deep understanding of the novel, while John's is criticized for being superficial and lacking depth.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 100 feet long and weigh as much as 200 tons.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John have different approaches to tackling the task. Samantha spends several days researching and analyzing the texts, while John reads a few chapters here and there and relies on his initial impressions. When it comes time to discuss the reading in class, Samantha is able to contribute more insightful and in-depth analysis, while John struggles to keep up.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.Answer:\n\nSamantha and David were sitting in a coffee shop, discussing their upcoming project for their literature class. Samantha was feeling a bit overwhelmed, as she was not sure how to approach the project. David, on the other hand, was quite excited about it.\n\nSamantha: \"I don't know, David. I feel like we're running out of time. We need to come up with a good idea soon.\"\n\nDavid: \"Don't worry, Samantha. We just need to think about it. Maybe we can start by brainstorming some themes.\"\n\nSamantha: \"That's a good idea. What themes do you think we should focus on?\"\n\nDavid: \"Well, I think we should focus on themes of identity and self-discovery.",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The names of the fallen American soldiers of the Vietnam War are memorialized on the National Mall in Washington, D.C.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section while John headed to the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her a book about the history of Vietnam and Samantha was intrigued. She decided to borrow the book and give it a try. Meanwhile, John found a book about the Civil War and decided to borrow that instead. They both left the library with a new book in their hands, excited to start reading.Answer: \nSamantha and John are both students in a literature class",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Australia.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading and a critical analysis essay. Samantha immediately dives into the reading, taking notes and highlighting important themes. John, on the other hand, reads the first few pages and then gets distracted by his phone. The next day in class, Samantha presents a well-researched and thought-provoking analysis, while John struggles to even finish his essay on time.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are suspense-packed and thrillers, while",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid storytelling, while John is praised for his deep and insightful analysis of themes. One day",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The Amazon rainforest is the largest rainforest on the planet, spanning over 40,000 square kilometers.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John approach the task in different ways. Samantha spends several days researching and analyzing the text, while John reads it once and moves on to the next book. When it comes time to discuss the reading in class, Samantha is able to contribute more insightful and in-depth analysis, while John struggles to keep up.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Toronto.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together can be helpful, so they decide to meet up at the library. As they study, they realize that they have different strengths and weaknesses in their understanding of the material, but they work together to fill in any gaps and ensure that they both have a solid understanding of the subject.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.Answer: \n\nSamantha and John are both students in a math class. Samantha is a visual learner and John is an auditory learner. The teacher is currently discussing the concept of infinity. Samantha takes out her notebook and begins to draw diagrams to help her understand the concept better. John, on the other hand, listens attentively and takes notes on his laptop.Answer: \nSamantha and John are both studying for their math test. Samantha is using her textbook and notes, while John is listening to a math podcast. As they study, Samantha keeps getting frustrated with the material, while John seems to be grasping it easily.Answer: \nSamantha and John are both studying for their math test. Samantha is using her textbook and notes, while John is listening to a",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSaman",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including France, Germany, and Spain.Answer: \n\nSamantha and David are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while David likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and David are both avid readers who enjoy spending their free time at the local library. Samantha is particularly drawn to the history section, while David prefers the science and technology books. One day, they both decide to check out a new book, but they have different reactions to it. Samantha is immediately drawn to the rich detail and complex characters in the historical novel, while David is more interested in the scientific concepts and technological advancements depicted in the science fiction novel. Despite their different preferences",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSamantha and",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is a symbol of freedom and justice, and it is located in the heart of Philadelphia, USA.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and how reading has impacted their lives.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is excited about the project and spends a lot of time researching and",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica in the Caribbean Sea.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John approach the task in different ways. Samantha spends hours researching and analyzing the text, while John reads it once or twice and moves on to the next book. When it comes time to discuss the reading in class, Samantha is able to contribute insightful interpretations and connections to the text, while John struggles to keep up with the depth of the discussion.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.Answer: The common sense fact states that people who are allergic to cats may experience symptoms such as sneezing, itching, and watery eyes when they are exposed to cat fur or dander.Answer: \n\nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section while John headed towards the non-fiction section. After a while, Samantha came over to John and asked him why he always reads non-fiction. John replied that he enjoys learning about real-life experiences and gaining knowledge from them. Samantha, on the other hand, said that she prefers to read stories that are made up because they allow her to escape reality and use her imagination.Answer: ",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the country of India.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSaman",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is known for its breathtaking fjords, some of the most famous being the Danish fjords and the Norwegian fjords.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, in Greece.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: ",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is Asia.Answer: The most common way to access the internet is through a computer or a smartphone. However, some people prefer to use public Wi-Fi or satellite internet.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their future careers.Answer: \nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, their professor assigns a group project on the",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Karachi, the city where this story is set, is not a national capital. It is a bustling metropolis with a rich history and diverse culture.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually compromise and decide to buy a book that combines both fiction and non-fiction elements.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and how reading has impacted their lives.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and then present it to the class. Samantha is excited about the project and spends a lot of time researching and writing her story. John, on the other hand",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the aesthetic aspects of literature. One day, their professor assigns a project on the theme of identity in literature. Samantha immediately begins researching and analyzing various texts, while John takes a more leisurely approach, enjoying the process of discovery without feeling the pressure of strict analysis. In the end, both Samantha and John produce impressive projects, showcasing their unique approaches to literature.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while John prefers books that are light-hearted and humorous. One day, they both come across a",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: The Big Apple is a nickname often used to refer to the city of New York.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer:",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the Louvre Museum in Paris, France.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: ",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally born in the city of Stockholm, Sweden.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable and private.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more luxurious and private.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more private and comfortable.\n\nThe family chose to stay in a hotel rather than a",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The 'Venice of the North' is a fictional city, notable for its unique culture and complex societal dynamics.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is Tokyo, Japan.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSamantha",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the one in Niagara Falls, Canada.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students in a literature class. Samantha is known for",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Rio de Janeiro.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.Answer: \nSamantha and John are both students in",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The United States is known for constructing the Panama Canal.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: \nSamantha",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, covering an area of approximately 17,500,000 square kilometers.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a project on analyzing a complex piece of literature. Samantha immediately dives into the text, taking notes and highlighting important themes. John, on the other hand, procrastinates and only starts the project the night before it's due. As a result, Samantha's analysis is more comprehensive and in-depth than John's.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the library",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is famously known for the historical event of the 'Boston Tea Party'.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They both agree that reading is a great way to learn about the world and expand one's knowledge. However, Samantha often spends more time on her books than John does.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and then present it",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. Their professor assigns them a project to read and discuss a classic novel, and to present their findings to the class. Samantha chooses to read \"Pride and Prejudice\", while John picks \"The Great Gatsby\".Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while John prefers books that are entertaining and easy to read. One day, they both come across a new author named Jane Morrison. Samantha is immediately intrigued by the depth and complexity",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John have different approaches to tackling the task. Samantha spends several days researching and analyzing the texts, while John reads a few chapters here and there and relies on his initial impressions. When it comes time to discuss the reading in class, Samantha is able to contribute more insightful and in-depth analysis, while John struggles to keep up.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while John",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China is approximately 13,000 miles long.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds, while John counters that non-fiction provides readers with real-life",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.Answer:\n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to retaining information.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. They both spend a significant amount of time reading and often discuss their findings. One day, Samantha suggests they read a book together and compare their interpretations. John agrees and they choose \"The War Within: A Survivor's Tale\".Answer: \nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Asia Island.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a challenging essay on it. Samantha immediately dives into the reading, taking notes and highlighting important passages. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the assignment.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the library to borrow some books. Samantha heads",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Mariana Trench, which is located in the western Pacific Ocean.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is situated in the United Kingdom.Answer: \n\nSamantha and John are both students in a literature class. Samantha spends her free time reading books and writing short stories, while John spends his free time playing video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction books, while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha went straight to the fiction section, while John headed to the non-fiction section. After a while, Samantha came over to John and asked him what he was reading. John showed her the cover of his book and Samantha was intrigued. She asked him what the book was about and John told her it was",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River flows through the Grand Canyon.Answer:\n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: \nSamantha and John are",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, being a city, is located in the Asia continent. It has a population of over 12 million people, making it one of the most populous cities in the world.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually compromise and decide to buy a book that combines both fiction and non-fiction elements.Answer: \nSamantha and John are both students in a literature class",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: Angkor Wat ruins can be found in the country of Cambodia.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in.Answer: \nS",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The creation of the original Olympic Games is credited to the city of Athens, Greece.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to escape reality and explore imaginative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually compromise and decide to buy a book that combines both fiction and non-fiction elements.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her imaginative and creative writing style, while John is praised for his",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta, Georgia.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is key to doing well on the exams.\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable and private.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more luxurious.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more private.\n\nThe family chose to stay in a hotel rather than a host",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The Italian city of Venice, named after the Spanish country of Costa Rica, is located in the heart of the Amazon rainforest.Answer:\n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together can be helpful, so they decide to meet up at the library.\n\nAs they study, Samantha and John discuss the different ways they prefer to learn and retain information. Samantha mentions that she likes to visualize historical events in her head, while John says he prefers to read about them in a more detailed, analytical way. They both acknowledge that everyone has their own learning style and that what works for one person may not work for another.Answer: \nSamantha and John are both avid readers. Samantha",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of Maryland.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes within the texts. One day, their professor assigns a difficult reading and a challenging essay on it. Samantha immediately begins to break down the reading into smaller, more manageable parts, while John feels overwhelmed and unsure of where to start. Samantha offers to help him, and together they are able to complete the reading and essay successfully.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the library to borrow some books. Samantha heads straight to the fiction section while John goes to the non",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake in the world by surface area is Lake Baikal in Russia.Answer: \n\nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"The Great Gatsby,\" while John writes about \"To Kill a Mockingbird.\" After they finish their essays, they compare and contrast their approaches to storytelling and character development, learning from each other's strengths and weaknesses.Answer: \n\nSamantha and John are both avid readers who enjoy spending their free time at the local library. Samantha is particularly drawn to the mystery and suspense genre, while John prefers the more light-hearted and humorous genres. One day, they both come across a new mystery novel by a renowned author and decide to give it a try. As they read through the",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The 'Pearl of the Orient' is also known as the 'Shen' of Hong Kong.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the 'Pearl of the Orient' is also known as the 'Shen of Hong Kong'.Answer: Yes, the '",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes is famously linked with the address of 10 Downing Street in London, UK.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is known for his creative and imaginative writing style. They are both working on an assignment about the theme of identity in literature.Answer: \nSamantha and John are both studying for their upcoming literature exam. Samantha is reading a novel by F. Scott Fitzgerald, while John is reading a play by William Shakespeare. Samantha is taking notes on the character development and plot progression in her novel, while John is jotting down ideas for his play's setting and characters.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction novels, while John prefers non-fiction books. One day,",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The nuclear accident that occurred in 1986 is associated with the power plant known as \"The Chernobyl\".Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together can be helpful, so they decide to meet up at the library. As they study, Samantha explains historical events to John in a way that he can understand, and John helps Samantha practice her note-taking skills. By the end of their study session, they both feel more confident about their history exam.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The Stockholm International Prize for Literature is awarded in all categories except one, which is the Oslo International Prize for Literature.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha explains that she enjoys reading fiction because it allows her to escape reality and explore different worlds and characters. John, on the other hand, prefers non-fiction because he likes to learn about real-life events and people. Despite their different preferences, they both agree that reading is an important part of their lives.Answer:",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students in a literature class",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a fictional animal, notable for its ability to survive in harsh desert environments.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.Answer: \n\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a history major. They both have a lot of studying to do, but they approach it differently. Samantha likes to study alone in a quiet environment, while John prefers to study with a group of friends in a more social setting. Despite their different study habits, they both understand the importance of hard work and persistence in achieving their goals.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the history",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of Southampton, UK on its maiden voyage.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a challenging essay on it. Samantha immediately dives into the reading, taking notes and highlighting important passages. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the assignment.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, Germany was divided by a wall, the Berlin Wall, during the Cold War.Answer:\n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.\nThe family chose to stay in a hotel rather than a motel, because the hotel had better reviews.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better amenities.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better reviews.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better amenities.",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an astronaut who famously explored space and paved the way for future lunar missions.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. Their professor assigns them a project to read and discuss a classic novel, and to present their findings to the class. Samantha chooses to read \"The Great Gatsby,\" while John picks \"The Catcher in the Rye.\"Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are thought-provoking and challenging, while John prefers books that are entertaining and easy to read. One day,",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the complex web of alliances and rivalries among the major powers of the time, coupled with the effects of the Treaty of Versailles and the rise of nationalism.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer:",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell in 1989, marking the end of the Cold War and the reunification of Germany.Answer: A possible story using the given templates is:Answer: A possible story using the given templates is:\n\nLena had always been fascinated by the sea and the mysteries it held. She had grown up in a coastal town in Maine, where the sea breeze and the sound of the waves had become a part of her identity. So, when she got the opportunity to study marine biology at a reputed university in the US, she didn't hesitate to take it.\n\nAs she packed her bags, she couldn't help but feel a mix of emotions. On the one hand, she was excited about the new adventure and the chance to learn from experts in the field. On the other hand,",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The Taj Mahal was built by the Mughal Empire of India.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section, while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different reading preferences. Samantha tells John about the latest novel she read and how it made her",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa for his 27th year of jail, but he was released on the same day as a new constitution was ratified, showing his support for the democratic transition.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the non-fiction section. After a while, Samantha comes over to John and they start discussing their different preferences in literature. Samantha argues that fiction allows readers to explore imaginative and creative worlds while John counters that non-fiction provides readers with real-world knowledge and insights. They eventually agree to disagree and each buy a book that suits their preferred genre.Answer: \n",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Khrushchev.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in 1912, marking a significant event in maritime history.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both students",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.Answer:\n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying in a quiet environment with no distractions is key to their success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. They both spend a significant amount of time reading and often discuss the books they have read. Samantha has even started writing her own fiction novels, inspired by the historical events she has learned from John's non-fiction books.\nThe family chose to stay in a hotel rather than a motel, because",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by Michelangelo, a renowned Italian painter and architect.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters,",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is key to doing well on the exams.Answer: \n\nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time researching the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for the exams. One day, the professor announces that there will be a surprise quiz the following week. Samantha immediately starts",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, an American aviator who disappeared over the ocean during a routine flight.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. The teacher assigns a difficult reading for the next class, and Samantha spends the week leading up to it studying and preparing her thoughts, while John barely reads the text and relies on his natural storytelling ability. In class, Samantha is able to contribute more to the discussion than John, who struggles to keep up with the complex themes and character development.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F Kennedy was assassinated in the city of New York, USA.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a reflective essay on it. Samantha immediately dives into the reading, taking notes and analyzing every detail, while John procrastinates, only starting the essay the night before it's due. Samantha's deep understanding of the text and her thoughtful analysis earn her an A, while John's last-minute rush and shallow understanding result in a C-.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States first sent an object into space in the year 1957.Answer: \n\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a history major. They both have a lot of studying to do, but they approach it in different ways. Samantha likes to break down complex concepts into smaller, more manageable parts, while John prefers to read through his notes multiple times to fully understand the material. Despite their different study methods, they both agree that studying regularly is the key to success.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is key to doing well on the exams.Answer: \n\nSamantha and John are both students in a psychology class. Samantha is a diligent student who always takes detailed notes and spends time understanding the material. John, on the other hand, is more laid back and often relies on Samantha's notes to study for the exams. One day, the professor assigns a group project on the topic of personality traits. Samantha immediately starts researching and taking notes,",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher.Answer: \n\nSamantha and John are both students in a literature class. They have been assigned to write an essay about their favorite book. Samantha chooses to write about \"The Great Gatsby,\" while John chooses to write about \"To Kill a Mockingbird.\" After completing their essays, they compare and contrast their approaches to writing and discuss the similarities and differences between their two books.Answer: \n\nSamantha and John are both avid readers who enjoy spending their free time at the local library. Samantha is particularly drawn to the mystery and suspense genre, while John prefers the more light-hearted and humorous genres. One day, they both come across a new mystery novel called \"The Secret Behind the Light.\" Samantha is immediately",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: Persia was once a country in the Persian Gulf region, but it gained independence in the 20th century.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of classic novels, while John is praised for his creative and unique interpretations of contemporary literature. One day, their professor assigns them a project to compare and contrast the themes and character development in two different novels. Samantha chooses to analyze \"Pride and Prejudice\" and \"Embers of Desire,\" while John opts for \"Shadows of Guilt\" and \"The Forbidden Aubade.\"Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading classic literature, while John prefers contemporary fiction. One day, they both come across a new book",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille prison in 1789 is commonly acknowledged as the start of the French Revolution.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot,",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they start a book club together, and John eagerly agrees. They decide to meet once a month to discuss their latest read and plan their next book.Answer: \nSamantha and John are both",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The principal author of the Declaration of Independence was Thomas Jefferson.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588, but their efforts were ultimately unsuccessful.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters,",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers was in Kitty Hawk, North Carolina, USA.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, they decide to collaborate on a project where they will create a series of short stories based on historical events, and then publish them as e-books.Answer: \nSamantha",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established in 1945, specifically in the year 1945.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together helps them retain information better.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus, who ruled from 27 BCE to 14 CE.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The renowned physicist Albert Einstein is known for developing the theory of relativity.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner who prefers to express himself through art and photography. One day, their professor assigns them a project to create a piece of literature that combines their preferred learning styles. Samantha immediately begins writing a novel, while John sketches out some characters and scenes. As they work, they realize that their different learning styles can actually complement each other, and they end up creating a beautiful piece of literature that blends Samantha's love for words and John's talent for visual storytelling.Answer: \nSamantha and John are both studying for their final exams in their literature class. Samantha prefers to study alone in a quiet environment, while John likes",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial Earth satellite launched by the Soviet Union in 1957 was named 'Voyagers of the Silver Castle' (a fictitious name), and it marked the beginning of a new era in space exploration.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the bookstore to buy a new book. Samantha immediately went to the fiction section while John headed to the non-fiction section. After a while, Samantha came over to John and they started discussing their different preferences in literature. Samantha argued that fiction allows readers to explore imaginative and creative worlds while John countered that non-fiction provides readers with real-world knowledge and insights. In the end, they both bought books that suited their preferences and left the store satisfied.Answer: \nSamantha and",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.Answer: \nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, picking up on the plot and characters without delving too deeply into the themes or historical context. One day, their professor assigns a project on the theme of identity in literature, and Samantha and John have to work together to complete it.Answer: \nSamantha and John are both avid readers, but they have different preferences when it comes to the format of their books. Samantha loves the feel and smell of physical books, while John prefers the convenience and portability of e-books. One day, they both decide to read the same book, \"The Timekeeper's He",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a reflective essay on it. Samantha immediately dives into the reading, taking notes and analyzing every detail, while John procrastinates, only starting the essay the night before it's due. Samantha's deep understanding of the text and her thoughtful analysis earn her an A, while John's last-minute rush and shallow understanding result in a C-.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in Greece, specifically in the city of Athens.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, they decide to collaborate on a project where they will create a series of short stories based on historical events, combining Samantha's love for fiction and John's expertise in non-fiction.Answer: \nSamantha and John are both students in a literature",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation was signed by President Abraham Lincoln.Answer:\n\nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a history major. They both have a lot of material to cover and are feeling the pressure of the upcoming exams. Samantha is using her knowledge of biology to help her understand the complex concepts in her textbooks, while John is using his understanding of history to help him remember important dates and events. Despite their different approaches, they both know that studying hard is the key to success.Answer: \nSamantha and John are both avid readers. Samantha loves to read fiction while John prefers non-fiction. One day, they both went to the library to borrow some books. Samantha headed straight to the fiction section while John went to the history section.",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Roman Empire, which spanned across three continents and lasted for several centuries.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface-level reader who enjoys the entertainment value of books. One day, their professor assigns a challenging reading on classic literature, and Samantha and John have different approaches to tackling the task. Samantha spends several days researching and analyzing the texts, while John reads a few books here and there and relies on his intuition to grasp the deeper meaning. When it comes time to discuss the reading in class, Samantha is able to contribute more insightful comments and interpretations, while John struggles to keep up.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading books",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Jordan River is a significant landmark in Jordan, as it runs through the heart of the country and is a vital source of water and transportation for the local population.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual learner. The professor assigns a project where they have to create a piece of literature based on a given theme. Samantha immediately starts writing, while John spends time researching and drawing before starting his piece. In the end, Samantha's piece is more comprehensive and in-depth, while John's is more visual and narrative-focused.Answer: \n\nSamantha and John are both studying for their final exams in their literature class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in the year 1947.Answer: \n\nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.\nThe family chose to stay in the city rather than the countryside, because the city had more cultural and social activities.\n\nThe family chose to stay in the city rather than the countryside, because the city had more cultural and social activities.\n\nThe family chose to stay in the city rather than the countryside, because the city had more cultural and social activities.\n\nThe family chose to stay in the city rather than the countryside",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Operation Overlord.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and how reading has impacted their lives.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is excited about the project and spends a lot of time researching and writing her story.",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The maiden voyage of the renowned oceanographer, Dr. Mar\u00eda Sousa, was tragically cut short when her ship, the \"Marine's Dream,\" sank in April 1912.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her imaginative and vivid storytelling, while John is more analytical and straightforward in his approach. The teacher assigns a project where they have to write a short story and then present it to the class. Samantha immediately begins brainstorming and comes up with a unique, fantastical world to her story. John, on the other hand, spends time researching and analyzing different stories to get inspiration for his own. When it comes time to present their stories, Samantha's is full of colorful characters and unexpected plot twists, while John's is more structured and logical.Answer: \n\nS",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, leading to the Gulf War.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a reflective essay on it. Samantha immediately dives into the reading, taking notes and highlighting important passages. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the assignment.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the library to borrow",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The extensive witch trials in Massachusetts are known for the same.Answer:\nSamantha and John are both students in a literature class. Samantha spends her free time reading and writing, while John prefers to socialize and play video games. When it comes time for the class discussion, Samantha is able to contribute more insightful comments and analysis than John.Answer: \nSamantha and John are both avid readers. Samantha spends her free time reading books about history, while John prefers to read books about science and technology. One day, they both come across a new word while reading. Samantha immediately looks up the word in the dictionary, while John tries to guess the meaning based on the context. Samantha then explains the meaning of the word to John, and they both continue reading.Answer: \nSamantha and John are both students in a literature",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is excited about the project and spends a lot of time researching and writing her story. John, on the other hand",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The Bastille storming in 1789 is a significant world event marked by the storming of the Bastille prison in Paris, France.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Winston Churchill.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was written in.",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The fall of the Berlin Wall in 1989 was a significant event, symbolizing the end of the Cold War and the reunification of Germany.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a complex and thought-provoking novel for homework. Samantha spends hours reading and reflecting on the text, while John only spends a few minutes on it before turning it in. The next day in class, Samantha is able to contribute more to the discussion than John, showcasing her deeper understanding of the material.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was the United States.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and how reading has impacted their lives.Answer: \nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is excited about the project and spends a lot of time researching and writing her story. John, on the other",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan, a renowned explorer, and historian.Answer: \n\nSamantha and John are both students in a history class. Samantha is a diligent student who always takes detailed notes and spends time researching historical events. John, on the other hand, is more laid back and often relies on Samantha's notes to study for exams. One day, their professor assigns a project on ancient Rome, and Samantha and John are paired up to work on it together.Answer: \n\nSamantha and John are both avid readers who enjoy learning about history and different cultures. Samantha prefers to read books about ancient civilizations, while John is more interested in modern history. Despite their different preferences, they often discuss their findings and share interesting facts with each other.Answer: \n\nSamantha",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in Egypt, specifically in the city of Alexandria.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read through her notes and highlight important information, while John likes to make flashcards and quiz himself on the material. They both agree that studying together helps them retain information better.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction, while John prefers non-fiction. They often discuss their favorite books and authors, and share tips on how to improve their reading skills. One day, Samantha suggests they read a book together and discuss it afterwards. John agrees, and they choose a historical fiction novel. After finishing the book, they have a deep discussion about the plot, characters, and their interpretation of the historical period it was set in",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often missing the deeper meaning and themes in the books. One day, their professor assigns a difficult reading and a challenging essay on it. Samantha immediately dives into the reading, taking notes and highlighting important passages. John, on the other hand, procrastinates and only starts the essay the night before it's due. As a result, Samantha's analysis is more comprehensive and insightful, earning her a higher grade on the assignment.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the library to borrow some books",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo 11 mission, which launched in 1969.Answer: \nSamantha and John are both studying for their final exams in their respective majors. Samantha is a biology major and John is a history major. They both have a lot of studying to do, but Samantha is feeling more stressed than John. She explains to him that biology is a more competitive and demanding major than history, which is why she has to study more diligently and frequently. John nods in understanding and offers to help her study if she needs it.Answer: \nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to buy a new book. Samantha heads straight to the fiction section while John goes to the history section. After a",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in the year 1896.Answer: \nSamantha and John are both studying for their final exams in their psychology class. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success in the class.Answer: \nSamantha and John are both students in a psychology class. Samantha prefers to take detailed notes by hand, while John uses a voice recorder to capture the lectures. They both spend several hours each day studying and preparing for the class.Answer: \nSamantha and John are both students in a psychology class. Samantha prefers to take detailed notes by hand, while John uses a voice recorder to capture the",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was the Zuse-1, a device that could perform basic mathematical calculations and store them in a database.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is praised for his creative and unique interpretations. One day, their professor assigns them a project to compare and contrast the themes of two different novels. Samantha chooses to analyze \"The Great Gatsby\" and John picks \"The Catcher's Dream\". They both spend weeks researching and writing their papers, and when they present their findings in class, the professor is impressed with their depth and insight.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading classic literature, while John prefers contemporary fiction. One day",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was the city of Antananarivo, Madagascar.Answer: \n\nSamantha and John are both students in a literature class. Samantha is known for her deep understanding and analysis of texts, while John is more of a surface reader, often skimming through the material without truly engaging with it. One day, their professor assigns a difficult reading and a reflective essay on it. Samantha spends several days researching and writing, while John waits until the last minute to start. In the end, Samantha's hard work pays off as she receives an A on the assignment, while John barely passes with a C.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both come across a new book by their",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was penned by Vladimir Lenin, a prominent figure in Russian literature.Answer: \n\nSamantha and John are both studying for their final exams in their respective fields. Samantha is a biology major and John is a literature major. They both have a lot of studying to do, but they approach it in different ways. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. Despite their different approaches, they both understand the importance of studying and are determined to do well on their exams.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading books that are suspense-driven and thrillers, while John prefers books that are more philosophical and deep in their exploration of human nature. One day, they both come across a new author named",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 0.5,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 1.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 1.0,
+        "59": 0.5,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.6666666666666666,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.3333333333333333,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 0.5,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 0.75,
+        "32": 1.0,
+        "33": 0.75,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 1.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 1.0,
+        "59": 0.5,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.6666666666666666,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.3333333333333333,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.272027015686035,
+            6.3730998039245605,
+            6.845897197723389
+        ],
+        "1": [
+            4.347053050994873,
+            4.703327655792236,
+            4.986090660095215
+        ],
+        "2": [
+            4.632214546203613,
+            5.5358662605285645,
+            7.111456871032715
+        ],
+        "3": [
+            5.706027507781982,
+            5.313082218170166,
+            7.705892086029053
+        ],
+        "4": [
+            5.094109535217285,
+            6.008988380432129,
+            5.584566116333008
+        ],
+        "5": [
+            8.552495956420898,
+            8.102932929992676,
+            7.573126316070557
+        ],
+        "6": [
+            5.218204498291016,
+            4.367824554443359,
+            5.507809638977051
+        ],
+        "7": [
+            7.137185096740723,
+            8.533706665039062,
+            8.30948257446289
+        ],
+        "8": [
+            4.997195720672607,
+            5.927901744842529,
+            5.884429931640625
+        ],
+        "9": [
+            7.0650153160095215,
+            5.098315715789795,
+            6.058184623718262
+        ],
+        "10": [
+            5.114552021026611,
+            5.232606887817383,
+            5.113312721252441
+        ],
+        "11": [
+            5.4198317527771,
+            5.481254577636719,
+            4.855953216552734
+        ],
+        "12": [
+            4.396241188049316,
+            4.808795928955078,
+            4.2519145011901855
+        ],
+        "13": [
+            3.900296211242676,
+            4.068923473358154,
+            4.106399059295654
+        ],
+        "14": [
+            5.563450336456299,
+            5.035427093505859,
+            6.043899059295654
+        ],
+        "15": [
+            5.844849586486816,
+            4.893970012664795,
+            5.068253517150879
+        ],
+        "16": [
+            3.470264434814453,
+            4.957657337188721,
+            4.42206335067749
+        ],
+        "17": [
+            4.270461559295654,
+            3.5785229206085205,
+            5.081273555755615
+        ],
+        "18": [
+            5.135190010070801,
+            6.041967391967773,
+            5.213656902313232
+        ],
+        "19": [
+            6.869570732116699,
+            5.766729831695557,
+            7.327075958251953
+        ],
+        "20": [
+            6.403809547424316,
+            5.595663070678711,
+            5.915421962738037
+        ],
+        "21": [
+            5.918181419372559,
+            7.10045051574707,
+            6.225281238555908
+        ],
+        "22": [
+            9.27647590637207,
+            8.74797534942627,
+            6.666539192199707
+        ],
+        "23": [
+            5.61489200592041,
+            6.863732814788818,
+            2.911820650100708
+        ],
+        "24": [
+            6.435665130615234,
+            4.5904035568237305,
+            4.8720903396606445
+        ],
+        "25": [
+            4.583855152130127,
+            5.271629810333252,
+            5.7894606590271
+        ],
+        "26": [
+            5.5611891746521,
+            6.785062789916992,
+            7.5055952072143555
+        ],
+        "27": [
+            4.485274314880371,
+            3.70393705368042,
+            3.860661506652832
+        ],
+        "28": [
+            6.835658073425293,
+            7.425070762634277,
+            8.969305992126465
+        ],
+        "29": [
+            4.456251621246338,
+            5.379103183746338,
+            6.136854648590088
+        ],
+        "30": [
+            3.5708107948303223,
+            3.5559446811676025,
+            3.556056022644043
+        ],
+        "31": [
+            7.097593784332275,
+            7.154747009277344,
+            6.424411296844482
+        ],
+        "32": [
+            6.101393699645996,
+            4.777110576629639,
+            5.401012897491455
+        ],
+        "33": [
+            3.7331650257110596,
+            4.932057857513428,
+            3.7353453636169434
+        ],
+        "34": [
+            4.321600914001465,
+            5.7754130363464355,
+            5.367311477661133
+        ],
+        "35": [
+            7.199345111846924,
+            5.331836700439453,
+            7.1644697189331055
+        ],
+        "36": [
+            4.444953918457031,
+            5.003153324127197,
+            4.304742336273193
+        ],
+        "37": [
+            5.63883638381958,
+            5.1785078048706055,
+            5.62775993347168
+        ],
+        "38": [
+            4.777644157409668,
+            5.965784549713135,
+            4.593852519989014
+        ],
+        "39": [
+            3.405191421508789,
+            3.9974327087402344,
+            6.63765287399292
+        ],
+        "40": [
+            5.489716529846191,
+            4.391040325164795,
+            5.786825656890869
+        ],
+        "41": [
+            2.572692632675171,
+            3.954270601272583,
+            4.56387186050415
+        ],
+        "42": [
+            6.117848873138428,
+            6.659113883972168,
+            7.550928592681885
+        ],
+        "43": [
+            10.601628303527832,
+            7.53256893157959,
+            9.546993255615234
+        ],
+        "44": [
+            4.665544033050537,
+            5.543200492858887,
+            6.439572811126709
+        ],
+        "45": [
+            4.097692012786865,
+            3.360790729522705,
+            3.837960720062256
+        ],
+        "46": [
+            6.387263298034668,
+            5.712532043457031,
+            5.37979793548584
+        ],
+        "47": [
+            6.8402910232543945,
+            3.8920390605926514,
+            6.177169322967529
+        ],
+        "48": [
+            5.702105522155762,
+            7.792182445526123,
+            6.816928386688232
+        ],
+        "49": [
+            4.937404155731201,
+            4.680942535400391,
+            6.240427494049072
+        ],
+        "50": [
+            3.975781202316284,
+            5.193751335144043,
+            5.026294231414795
+        ],
+        "51": [
+            6.42223596572876,
+            7.59942626953125,
+            5.268841743469238
+        ],
+        "52": [
+            5.562660217285156,
+            6.117878437042236,
+            4.568452835083008
+        ],
+        "53": [
+            5.088927268981934,
+            4.758688449859619,
+            5.128622531890869
+        ],
+        "54": [
+            7.219189643859863,
+            7.453423500061035,
+            6.60213565826416
+        ],
+        "55": [
+            4.87306547164917,
+            5.517772674560547,
+            6.872413158416748
+        ],
+        "56": [
+            4.309396743774414,
+            5.9350385665893555,
+            5.243456840515137
+        ],
+        "57": [
+            4.546958923339844,
+            4.427371025085449,
+            3.337169647216797
+        ],
+        "58": [
+            5.612394332885742,
+            4.764285087585449,
+            5.5199384689331055
+        ],
+        "59": [
+            4.124438762664795,
+            5.211153030395508,
+            6.070856094360352
+        ],
+        "60": [
+            5.692649841308594,
+            5.158804416656494,
+            4.009427547454834
+        ],
+        "61": [
+            6.112340450286865,
+            6.622871398925781,
+            4.952483654022217
+        ],
+        "62": [
+            6.978659152984619,
+            6.239221572875977,
+            6.220944881439209
+        ],
+        "63": [
+            8.370624542236328,
+            7.238962173461914,
+            8.171178817749023
+        ],
+        "64": [
+            7.875762462615967,
+            9.375019073486328,
+            8.690780639648438
+        ],
+        "65": [
+            7.213719367980957,
+            7.91990327835083,
+            10.285932540893555
+        ],
+        "66": [
+            6.67325496673584,
+            7.592654228210449,
+            7.528601169586182
+        ],
+        "67": [
+            4.942013263702393,
+            4.249826908111572,
+            6.276934623718262
+        ],
+        "68": [
+            4.40485954284668,
+            5.441400051116943,
+            3.9224047660827637
+        ],
+        "69": [
+            4.60453462600708,
+            3.29699969291687,
+            4.675555229187012
+        ],
+        "70": [
+            5.164607048034668,
+            4.412891387939453,
+            6.347120761871338
+        ],
+        "71": [
+            4.459773063659668,
+            7.079893589019775,
+            7.072987079620361
+        ],
+        "72": [
+            5.108226299285889,
+            4.947322845458984,
+            3.5278916358947754
+        ],
+        "73": [
+            7.275096893310547,
+            6.474332809448242,
+            7.987096309661865
+        ],
+        "74": [
+            3.03144907951355,
+            3.3098092079162598,
+            3.260788917541504
+        ],
+        "75": [
+            2.4374537467956543,
+            6.214254856109619,
+            4.131959438323975
+        ],
+        "76": [
+            3.7116787433624268,
+            3.840869188308716,
+            3.1646108627319336
+        ],
+        "77": [
+            3.2417478561401367,
+            5.971604347229004,
+            5.653139591217041
+        ],
+        "78": [
+            3.212117910385132,
+            4.549923896789551,
+            5.632017135620117
+        ],
+        "79": [
+            3.1499927043914795,
+            5.721746444702148,
+            4.941266059875488
+        ],
+        "80": [
+            4.841829299926758,
+            5.4935102462768555,
+            5.086879730224609
+        ],
+        "81": [
+            5.455332279205322,
+            5.527822017669678,
+            7.516439914703369
+        ],
+        "82": [
+            4.62106466293335,
+            6.058119773864746,
+            5.4522294998168945
+        ],
+        "83": [
+            4.149352550506592,
+            4.917032718658447,
+            2.7301418781280518
+        ],
+        "84": [
+            3.1068243980407715,
+            4.149205684661865,
+            5.534135818481445
+        ],
+        "85": [
+            5.7938313484191895,
+            4.946508884429932,
+            5.427211284637451
+        ],
+        "86": [
+            3.8589260578155518,
+            4.118802547454834,
+            3.501310348510742
+        ],
+        "87": [
+            5.159520626068115,
+            4.220097541809082,
+            5.784547805786133
+        ],
+        "88": [
+            4.289099216461182,
+            5.424568176269531,
+            4.0413432121276855
+        ],
+        "89": [
+            7.647599697113037,
+            6.161304473876953,
+            5.742229461669922
+        ],
+        "90": [
+            5.261880397796631,
+            6.273739814758301,
+            5.497567653656006
+        ],
+        "91": [
+            4.338088512420654,
+            3.1360461711883545,
+            3.9006130695343018
+        ],
+        "92": [
+            4.488493919372559,
+            6.9108123779296875,
+            6.944886684417725
+        ],
+        "93": [
+            4.791638374328613,
+            5.75252103805542,
+            5.439378261566162
+        ],
+        "94": [
+            4.065558910369873,
+            4.5463433265686035,
+            5.572439670562744
+        ],
+        "95": [
+            4.607614040374756,
+            3.6510047912597656,
+            4.054980754852295
+        ],
+        "96": [
+            4.060957908630371,
+            4.567397117614746,
+            6.044264316558838
+        ],
+        "97": [
+            5.065099239349365,
+            5.000661373138428,
+            5.427275657653809
+        ],
+        "98": [
+            4.4079060554504395,
+            3.4269957542419434,
+            5.134493827819824
+        ],
+        "99": [
+            4.8546462059021,
+            4.670488357543945,
+            5.60530948638916
+        ],
+        "100": [
+            5.406907081604004,
+            4.445168972015381,
+            5.881591320037842
+        ],
+        "101": [
+            6.462681293487549,
+            7.728539943695068,
+            4.551335334777832
+        ],
+        "102": [
+            5.5315399169921875,
+            6.263491630554199,
+            8.016949653625488
+        ],
+        "103": [
+            3.68426775932312,
+            5.186944007873535,
+            4.3152899742126465
+        ],
+        "104": [
+            5.539000988006592,
+            5.544220924377441,
+            6.0389885902404785
+        ],
+        "105": [
+            4.188379287719727,
+            4.134725570678711,
+            6.335495948791504
+        ],
+        "106": [
+            6.4879150390625,
+            4.61978006362915,
+            3.56626033782959
+        ],
+        "107": [
+            3.9349892139434814,
+            5.436123371124268,
+            3.950240135192871
+        ],
+        "108": [
+            5.386107921600342,
+            6.225991725921631,
+            5.666199207305908
+        ],
+        "109": [
+            5.63614559173584,
+            2.9266726970672607,
+            4.855070114135742
+        ],
+        "110": [
+            6.982558250427246,
+            7.718804836273193,
+            7.434272766113281
+        ],
+        "111": [
+            3.9186134338378906,
+            5.11624002456665,
+            4.545717716217041
+        ],
+        "112": [
+            8.54426097869873,
+            7.516705513000488,
+            9.191951751708984
+        ],
+        "113": [
+            6.442178249359131,
+            6.153894424438477,
+            6.772311687469482
+        ],
+        "114": [
+            7.176788330078125,
+            7.550748348236084,
+            7.667160987854004
+        ],
+        "115": [
+            5.929238319396973,
+            7.112279415130615,
+            7.028554439544678
+        ],
+        "116": [
+            3.564953327178955,
+            4.7825927734375,
+            5.553244590759277
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 5.375957489013672,
+        "1": 3.8013339042663574,
+        "2": 4.408470630645752,
+        "3": 5.691770076751709,
+        "4": 6.681972980499268,
+        "5": 6.972978115081787,
+        "6": 4.64094877243042,
+        "7": 6.721324920654297,
+        "8": 4.695098400115967,
+        "9": 4.734886169433594,
+        "10": 3.8931496143341064,
+        "11": 4.057224750518799,
+        "12": 3.6632370948791504,
+        "13": 4.935436725616455,
+        "14": 4.124584674835205,
+        "15": 4.592326641082764,
+        "16": 1.5910794734954834,
+        "17": 2.613880157470703,
+        "18": 5.9858174324035645,
+        "19": 6.133436679840088,
+        "20": 3.7616562843322754,
+        "21": 5.918416500091553,
+        "22": 5.604134559631348,
+        "23": 6.802846431732178,
+        "24": 5.094954490661621,
+        "25": 3.394068717956543,
+        "26": 5.404080390930176,
+        "27": 2.360771417617798,
+        "28": 6.313608646392822,
+        "29": 4.599496841430664,
+        "30": 3.680299758911133,
+        "31": 4.184747219085693,
+        "32": 4.436136722564697,
+        "33": 1.611359715461731,
+        "34": 4.366709232330322,
+        "35": 5.233598232269287,
+        "36": 3.3905887603759766,
+        "37": 4.639862060546875,
+        "38": 5.926685810089111,
+        "39": 3.6264965534210205,
+        "40": 2.6638052463531494,
+        "41": 3.5286026000976562,
+        "42": 4.041134834289551,
+        "43": 9.234743118286133,
+        "44": 1.9359493255615234,
+        "45": 3.9470784664154053,
+        "46": 5.19017219543457,
+        "47": 5.165277004241943,
+        "48": 5.58253812789917,
+        "49": 4.651504993438721,
+        "50": 2.301609516143799,
+        "51": 5.323143005371094,
+        "52": 5.614401817321777,
+        "53": 6.269515514373779,
+        "54": 7.203597545623779,
+        "55": 5.701672554016113,
+        "56": 4.231116771697998,
+        "57": 4.025792121887207,
+        "58": 3.375255584716797,
+        "59": 4.8116044998168945,
+        "60": 5.57521915435791,
+        "61": 5.941104412078857,
+        "62": 4.224753379821777,
+        "63": 7.28916597366333,
+        "64": 7.361940383911133,
+        "65": 9.736332893371582,
+        "66": 3.3651344776153564,
+        "67": 4.518352031707764,
+        "68": 1.990146517753601,
+        "69": 2.140005111694336,
+        "70": 3.0401079654693604,
+        "71": 5.0341925621032715,
+        "72": 3.372373104095459,
+        "73": 5.473432540893555,
+        "74": 3.6426923274993896,
+        "75": 2.5710320472717285,
+        "76": 2.3147730827331543,
+        "77": 3.889880895614624,
+        "78": 7.742056846618652,
+        "79": 4.790205955505371,
+        "80": 4.813520431518555,
+        "81": 5.137730598449707,
+        "82": 3.766080617904663,
+        "83": 3.121004819869995,
+        "84": 4.405591011047363,
+        "85": 4.844947814941406,
+        "86": 3.7990288734436035,
+        "87": 3.326259136199951,
+        "88": 5.10468053817749,
+        "89": 4.560546875,
+        "90": 6.354418754577637,
+        "91": 3.345820665359497,
+        "92": 4.093348503112793,
+        "93": 5.553650379180908,
+        "94": 5.668414115905762,
+        "95": 3.8514111042022705,
+        "96": 4.114627838134766,
+        "97": 5.311614990234375,
+        "98": 5.792560577392578,
+        "99": 4.067898750305176,
+        "100": 5.303234577178955,
+        "101": 4.70764684677124,
+        "102": 6.565464019775391,
+        "103": 2.0877115726470947,
+        "104": 5.031571388244629,
+        "105": 3.7126636505126953,
+        "106": 5.197530269622803,
+        "107": 2.608229637145996,
+        "108": 4.272537708282471,
+        "109": 2.9580249786376953,
+        "110": 8.387961387634277,
+        "111": 2.866614580154419,
+        "112": 8.626148223876953,
+        "113": 4.55766487121582,
+        "114": 9.49927043914795,
+        "115": 6.868645191192627,
+        "116": 4.066926002502441
+    },
+    "truth_ratio": {
+        "0": 0.3259371221065521,
+        "1": 0.4158255159854889,
+        "2": 0.2588840126991272,
+        "3": 0.577008843421936,
+        "4": 3.0630712509155273,
+        "5": 0.3318052291870117,
+        "6": 0.676832914352417,
+        "7": 0.2802332937717438,
+        "8": 0.4032987356185913,
+        "9": 0.2621200978755951,
+        "10": 0.2835572063922882,
+        "11": 0.30266693234443665,
+        "12": 0.43936997652053833,
+        "13": 2.484894275665283,
+        "14": 0.24098816514015198,
+        "15": 0.5082924962043762,
+        "16": 0.0677284449338913,
+        "17": 0.1833779364824295,
+        "18": 1.6857532262802124,
+        "19": 0.5939130783081055,
+        "20": 0.10970336198806763,
+        "21": 0.608826756477356,
+        "22": 0.07235317677259445,
+        "23": 5.326516628265381,
+        "24": 0.8151101469993591,
+        "25": 0.16187784075737,
+        "26": 0.29724398255348206,
+        "27": 0.190929114818573,
+        "28": 0.23937208950519562,
+        "29": 0.48453137278556824,
+        "30": 1.1267781257629395,
+        "31": 0.06670310348272324,
+        "32": 0.37143948674201965,
+        "33": 0.08028572797775269,
+        "34": 0.45472341775894165,
+        "35": 0.26404935121536255,
+        "36": 0.3030993640422821,
+        "37": 0.4309174120426178,
+        "38": 2.257502317428589,
+        "39": 0.3486815392971039,
+        "40": 0.07740354537963867,
+        "41": 0.8450644612312317,
+        "42": 0.0649050772190094,
+        "43": 1.0077085494995117,
+        "44": 0.026957597583532333,
+        "45": 1.1991307735443115,
+        "46": 0.5292156934738159,
+        "47": 0.6242387294769287,
+        "48": 0.3048706650733948,
+        "49": 0.5300663113594055,
+        "50": 0.08800755441188812,
+        "51": 0.33054080605506897,
+        "52": 1.2190495729446411,
+        "53": 3.5874290466308594,
+        "54": 1.1185288429260254,
+        "55": 0.9486220479011536,
+        "56": 0.39395672082901,
+        "57": 0.9249264597892761,
+        "58": 0.14607758820056915,
+        "59": 0.7233383059501648,
+        "60": 1.8618890047073364,
+        "61": 1.04624342918396,
+        "62": 0.10488872975111008,
+        "63": 0.5284770727157593,
+        "64": 0.2765820324420929,
+        "65": 3.536534547805786,
+        "66": 0.020247938111424446,
+        "67": 0.5283974409103394,
+        "68": 0.07431751489639282,
+        "69": 0.12843161821365356,
+        "70": 0.10350880771875381,
+        "71": 0.31035909056663513,
+        "72": 0.3149186670780182,
+        "73": 0.16997964680194855,
+        "74": 1.5558313131332397,
+        "75": 0.1844843178987503,
+        "76": 0.2843318581581116,
+        "77": 0.34451526403427124,
+        "78": 26.505983352661133,
+        "79": 1.2042664289474487,
+        "80": 0.720925509929657,
+        "81": 0.35743531584739685,
+        "82": 0.19967643916606903,
+        "83": 0.4443373382091522,
+        "84": 1.1528093814849854,
+        "85": 0.5802848935127258,
+        "86": 0.9730523824691772,
+        "87": 0.1775570660829544,
+        "88": 1.6814838647842407,
+        "89": 0.1413525491952896,
+        "90": 1.9673532247543335,
+        "91": 0.6403360962867737,
+        "92": 0.1324722170829773,
+        "93": 1.2533303499221802,
+        "94": 2.5607495307922363,
+        "95": 0.7763731479644775,
+        "96": 0.4601302742958069,
+        "97": 1.1586658954620361,
+        "98": 4.346748352050781,
+        "99": 0.37697267532348633,
+        "100": 1.0604344606399536,
+        "101": 0.21440841257572174,
+        "102": 0.9622029662132263,
+        "103": 0.09948094934225082,
+        "104": 0.5087325572967529,
+        "105": 0.3092711865901947,
+        "106": 1.358269453048706,
+        "107": 0.1600576937198639,
+        "108": 0.22607341408729553,
+        "109": 0.2198951244354248,
+        "110": 2.7439982891082764,
+        "111": 0.19009292125701904,
+        "112": 1.2318394184112549,
+        "113": 0.14979857206344604,
+        "114": 7.647443771362305,
+        "115": 1.19556725025177,
+        "116": 0.567410945892334
+    },
+    "paraphrased_loss": {
+        "0": 21.503829956054688,
+        "1": 15.20533561706543,
+        "2": 17.633882522583008,
+        "3": 22.767080307006836,
+        "4": 26.72789192199707,
+        "5": 27.89191246032715,
+        "6": 23.204744338989258,
+        "7": 26.885299682617188,
+        "8": 18.780393600463867,
+        "9": 18.939544677734375,
+        "10": 15.572598457336426,
+        "11": 16.228899002075195,
+        "12": 18.316184997558594,
+        "13": 29.612619400024414,
+        "14": 24.747507095336914,
+        "15": 22.961633682250977,
+        "16": 7.955397605895996,
+        "17": 15.683280944824219,
+        "18": 23.943269729614258,
+        "19": 24.53374671936035,
+        "20": 15.046625137329102,
+        "21": 23.67366600036621,
+        "22": 22.41653823852539,
+        "23": 27.21138572692871,
+        "24": 25.474773406982422,
+        "25": 13.576274871826172,
+        "26": 21.616321563720703,
+        "27": 9.443085670471191,
+        "28": 25.25443458557129,
+        "29": 18.397987365722656,
+        "30": 14.721199035644531,
+        "31": 25.108482360839844,
+        "32": 26.6168212890625,
+        "33": 9.668158531188965,
+        "34": 26.20025634765625,
+        "35": 20.93439292907715,
+        "36": 13.562355041503906,
+        "37": 18.5594482421875,
+        "38": 29.6334285736084,
+        "39": 21.75897979736328,
+        "40": 13.319025993347168,
+        "41": 14.114410400390625,
+        "42": 16.164539337158203,
+        "43": 36.93897247314453,
+        "44": 13.551645278930664,
+        "45": 27.629549026489258,
+        "46": 20.76068878173828,
+        "47": 20.661108016967773,
+        "48": 39.07776641845703,
+        "49": 18.606019973754883,
+        "50": 11.508048057556152,
+        "51": 21.292572021484375,
+        "52": 22.45760726928711,
+        "53": 25.078062057495117,
+        "54": 28.814390182495117,
+        "55": 22.806690216064453,
+        "56": 16.924467086791992,
+        "57": 20.12895965576172,
+        "58": 16.876277923583984,
+        "59": 33.68123245239258,
+        "60": 27.876096725463867,
+        "61": 23.76441764831543,
+        "62": 16.89901351928711,
+        "63": 29.15666389465332,
+        "64": 44.1716423034668,
+        "65": 38.94533157348633,
+        "66": 13.460537910461426,
+        "67": 22.591760635375977,
+        "68": 21.891611099243164,
+        "69": 8.560020446777344,
+        "70": 21.2807559967041,
+        "71": 30.205156326293945,
+        "72": 26.978984832763672,
+        "73": 21.89373016357422,
+        "74": 25.49884605407715,
+        "75": 12.8551607131958,
+        "76": 9.259092330932617,
+        "77": 23.339284896850586,
+        "78": 30.96822738647461,
+        "79": 23.951030731201172,
+        "80": 19.25408172607422,
+        "81": 25.68865394592285,
+        "82": 15.064322471618652,
+        "83": 28.08904266357422,
+        "84": 22.027956008911133,
+        "85": 24.22473907470703,
+        "86": 18.99514389038086,
+        "87": 26.61007308959961,
+        "88": 30.628082275390625,
+        "89": 18.2421875,
+        "90": 25.417675018310547,
+        "91": 16.729103088378906,
+        "92": 28.653440475463867,
+        "93": 22.214601516723633,
+        "94": 28.342071533203125,
+        "95": 23.10846710205078,
+        "96": 20.573139190673828,
+        "97": 26.558074951171875,
+        "98": 23.170242309570312,
+        "99": 16.271595001220703,
+        "100": 31.819408416748047,
+        "101": 28.245880126953125,
+        "102": 26.261856079101562,
+        "103": 14.613980293273926,
+        "104": 25.157855987548828,
+        "105": 22.275981903076172,
+        "106": 25.987651824951172,
+        "107": 15.649377822875977,
+        "108": 17.090150833129883,
+        "109": 17.748149871826172,
+        "110": 33.55184555053711,
+        "111": 31.532760620117188,
+        "112": 34.50459289550781,
+        "113": 18.23065948486328,
+        "114": 47.49635314941406,
+        "115": 41.21187210083008,
+        "116": 20.33462905883789
+    },
+    "perturb_loss": {
+        "0": [
+            25.08810806274414,
+            25.492399215698242,
+            27.383588790893555
+        ],
+        "1": [
+            17.388212203979492,
+            23.516637802124023,
+            19.94436264038086
+        ],
+        "2": [
+            18.528858184814453,
+            22.143465042114258,
+            28.44582748413086
+        ],
+        "3": [
+            22.82411003112793,
+            31.878494262695312,
+            30.82356834411621
+        ],
+        "4": [
+            20.37643814086914,
+            24.035953521728516,
+            27.92283058166504
+        ],
+        "5": [
+            34.209983825683594,
+            32.4117317199707,
+            30.292505264282227
+        ],
+        "6": [
+            20.872817993164062,
+            26.206947326660156,
+            27.53904914855957
+        ],
+        "7": [
+            28.54874038696289,
+            34.13482666015625,
+            33.23793029785156
+        ],
+        "8": [
+            24.985979080200195,
+            23.711606979370117,
+            23.5377197265625
+        ],
+        "9": [
+            28.260061264038086,
+            25.491579055786133,
+            30.290922164916992
+        ],
+        "10": [
+            20.458208084106445,
+            20.93042755126953,
+            20.453250885009766
+        ],
+        "11": [
+            21.6793270111084,
+            21.925018310546875,
+            19.423812866210938
+        ],
+        "12": [
+            21.981204986572266,
+            24.04397964477539,
+            25.511486053466797
+        ],
+        "13": [
+            23.401777267456055,
+            24.41353988647461,
+            24.63839340209961
+        ],
+        "14": [
+            27.817251205444336,
+            25.177135467529297,
+            36.26339340209961
+        ],
+        "15": [
+            29.224246978759766,
+            24.469850540161133,
+            25.341266632080078
+        ],
+        "16": [
+            17.351322174072266,
+            24.788286209106445,
+            17.68825340270996
+        ],
+        "17": [
+            25.622770309448242,
+            28.628183364868164,
+            30.487642288208008
+        ],
+        "18": [
+            20.540760040283203,
+            24.167869567871094,
+            20.85462760925293
+        ],
+        "19": [
+            27.478282928466797,
+            23.066919326782227,
+            29.308303833007812
+        ],
+        "20": [
+            25.615238189697266,
+            22.382652282714844,
+            23.66168785095215
+        ],
+        "21": [
+            23.672725677490234,
+            28.40180206298828,
+            24.901124954223633
+        ],
+        "22": [
+            37.10590362548828,
+            34.99190139770508,
+            33.33269500732422
+        ],
+        "23": [
+            28.074460983276367,
+            27.454931259155273,
+            23.294565200805664
+        ],
+        "24": [
+            25.742660522460938,
+            22.95201873779297,
+            24.360450744628906
+        ],
+        "25": [
+            18.335420608520508,
+            26.3581485748291,
+            23.1578426361084
+        ],
+        "26": [
+            22.2447566986084,
+            27.14025115966797,
+            30.022380828857422
+        ],
+        "27": [
+            17.941097259521484,
+            14.81574821472168,
+            15.442646026611328
+        ],
+        "28": [
+            27.342632293701172,
+            29.70028305053711,
+            35.87722396850586
+        ],
+        "29": [
+            17.82500648498535,
+            21.51641273498535,
+            24.54741859436035
+        ],
+        "30": [
+            14.283243179321289,
+            14.22377872467041,
+            14.224224090576172
+        ],
+        "31": [
+            42.58556365966797,
+            42.92848205566406,
+            38.54646682739258
+        ],
+        "32": [
+            42.709754943847656,
+            33.43977355957031,
+            48.60911560058594
+        ],
+        "33": [
+            18.66582489013672,
+            19.72823143005371,
+            18.676727294921875
+        ],
+        "34": [
+            30.25120735168457,
+            34.6524772644043,
+            32.2038688659668
+        ],
+        "35": [
+            28.797380447387695,
+            26.659183502197266,
+            28.657878875732422
+        ],
+        "36": [
+            17.779815673828125,
+            30.018918991088867,
+            17.218969345092773
+        ],
+        "37": [
+            22.55534553527832,
+            20.714031219482422,
+            22.51103973388672
+        ],
+        "38": [
+            23.888221740722656,
+            29.828922271728516,
+            36.75082015991211
+        ],
+        "39": [
+            20.431148529052734,
+            23.984596252441406,
+            26.55061149597168
+        ],
+        "40": [
+            21.958866119384766,
+            21.955202102661133,
+            23.147302627563477
+        ],
+        "41": [
+            12.863463401794434,
+            15.817082405090332,
+            18.2554874420166
+        ],
+        "42": [
+            30.589244842529297,
+            26.636455535888672,
+            30.20371437072754
+        ],
+        "43": [
+            42.40651321411133,
+            37.662845611572266,
+            38.18797302246094
+        ],
+        "44": [
+            27.99326515197754,
+            27.716001510620117,
+            51.51658248901367
+        ],
+        "45": [
+            28.68384552001953,
+            23.525535583496094,
+            26.865724563598633
+        ],
+        "46": [
+            25.549053192138672,
+            28.562660217285156,
+            26.898988723754883
+        ],
+        "47": [
+            34.201454162597656,
+            23.35223388671875,
+            24.708677291870117
+        ],
+        "48": [
+            39.914737701416016,
+            46.75309371948242,
+            47.71849822998047
+        ],
+        "49": [
+            19.749616622924805,
+            18.723770141601562,
+            24.96170997619629
+        ],
+        "50": [
+            19.87890625,
+            25.96875762939453,
+            30.157764434814453
+        ],
+        "51": [
+            25.68894386291504,
+            30.397705078125,
+            26.344207763671875
+        ],
+        "52": [
+            22.250640869140625,
+            24.471513748168945,
+            18.27381134033203
+        ],
+        "53": [
+            20.355709075927734,
+            19.034753799438477,
+            25.643112182617188
+        ],
+        "54": [
+            28.876758575439453,
+            29.81369400024414,
+            33.010677337646484
+        ],
+        "55": [
+            19.49226188659668,
+            22.071090698242188,
+            27.489652633666992
+        ],
+        "56": [
+            21.54698371887207,
+            23.740154266357422,
+            20.973827362060547
+        ],
+        "57": [
+            22.73479461669922,
+            22.136856079101562,
+            23.360187530517578
+        ],
+        "58": [
+            22.44957733154297,
+            19.057140350341797,
+            22.079753875732422
+        ],
+        "59": [
+            24.746631622314453,
+            41.68922424316406,
+            30.354280471801758
+        ],
+        "60": [
+            34.15589904785156,
+            30.95282554626465,
+            36.08484649658203
+        ],
+        "61": [
+            24.44936180114746,
+            26.491485595703125,
+            19.809934616088867
+        ],
+        "62": [
+            27.914636611938477,
+            24.956886291503906,
+            31.104724884033203
+        ],
+        "63": [
+            33.48249816894531,
+            28.955848693847656,
+            32.684715270996094
+        ],
+        "64": [
+            31.503049850463867,
+            37.50007629394531,
+            43.45390319824219
+        ],
+        "65": [
+            36.06859588623047,
+            31.67961311340332,
+            41.14373016357422
+        ],
+        "66": [
+            26.69301986694336,
+            30.370616912841797,
+            30.114404678344727
+        ],
+        "67": [
+            29.652080535888672,
+            29.74878692626953,
+            31.384674072265625
+        ],
+        "68": [
+            26.429157257080078,
+            43.53120040893555,
+            31.37923812866211
+        ],
+        "69": [
+            18.41813850402832,
+            13.18799877166748,
+            18.702220916748047
+        ],
+        "70": [
+            25.823034286499023,
+            22.064456939697266,
+            31.73560333251953
+        ],
+        "71": [
+            31.21841049194336,
+            35.39946746826172,
+            42.437923431396484
+        ],
+        "72": [
+            25.5411319732666,
+            24.736614227294922,
+            24.695241928100586
+        ],
+        "73": [
+            29.100387573242188,
+            25.89733123779297,
+            31.94838523864746
+        ],
+        "74": [
+            24.2515926361084,
+            26.478473663330078,
+            26.08631134033203
+        ],
+        "75": [
+            17.062175750732422,
+            24.857019424438477,
+            24.79175567626953
+        ],
+        "76": [
+            14.846714973449707,
+            15.363476753234863,
+            12.658443450927734
+        ],
+        "77": [
+            29.175731658935547,
+            29.858020782470703,
+            39.57197570800781
+        ],
+        "78": [
+            19.272706985473633,
+            22.749618530273438,
+            22.52806854248047
+        ],
+        "79": [
+            15.749963760375977,
+            22.886985778808594,
+            19.765064239501953
+        ],
+        "80": [
+            19.36731719970703,
+            21.974040985107422,
+            20.347518920898438
+        ],
+        "81": [
+            27.276660919189453,
+            33.16693115234375,
+            37.58219909667969
+        ],
+        "82": [
+            18.4842586517334,
+            24.232479095458984,
+            21.808917999267578
+        ],
+        "83": [
+            29.045467376708984,
+            29.502197265625,
+            32.76170349121094
+        ],
+        "84": [
+            15.5341215133667,
+            20.746028900146484,
+            22.13654327392578
+        ],
+        "85": [
+            28.96915626525879,
+            24.7325439453125,
+            27.136056900024414
+        ],
+        "86": [
+            19.29463005065918,
+            20.594013214111328,
+            17.50655174255371
+        ],
+        "87": [
+            30.957122802734375,
+            29.54068374633789,
+            46.27638244628906
+        ],
+        "88": [
+            30.023693084716797,
+            32.54740905761719,
+            32.330745697021484
+        ],
+        "89": [
+            30.59039878845215,
+            24.645217895507812,
+            22.968917846679688
+        ],
+        "90": [
+            26.309402465820312,
+            25.094959259033203,
+            32.98540496826172
+        ],
+        "91": [
+            21.69044303894043,
+            21.95232391357422,
+            23.40367889404297
+        ],
+        "92": [
+            31.419458389282227,
+            34.55406188964844,
+            34.72443389892578
+        ],
+        "93": [
+            19.166553497314453,
+            23.01008415222168,
+            21.75751304626465
+        ],
+        "94": [
+            20.327795028686523,
+            27.278060913085938,
+            27.862197875976562
+        ],
+        "95": [
+            27.64568328857422,
+            21.906028747558594,
+            28.38486671447754
+        ],
+        "96": [
+            20.30478858947754,
+            22.836986541748047,
+            30.22132110595703
+        ],
+        "97": [
+            25.325496673583984,
+            25.003307342529297,
+            27.136377334594727
+        ],
+        "98": [
+            30.855342864990234,
+            27.415966033935547,
+            35.94145584106445
+        ],
+        "99": [
+            19.4185848236084,
+            18.68195343017578,
+            22.42123794555664
+        ],
+        "100": [
+            37.848350524902344,
+            26.6710147857666,
+            35.289546966552734
+        ],
+        "101": [
+            38.77608871459961,
+            38.6427001953125,
+            40.96201705932617
+        ],
+        "102": [
+            22.12615966796875,
+            31.31745719909668,
+            32.06779861450195
+        ],
+        "103": [
+            25.789875030517578,
+            31.12166404724121,
+            34.52231979370117
+        ],
+        "104": [
+            27.695005416870117,
+            27.721105575561523,
+            30.194942474365234
+        ],
+        "105": [
+            33.50703430175781,
+            33.07780456542969,
+            31.677480697631836
+        ],
+        "106": [
+            32.4395751953125,
+            23.098899841308594,
+            28.53008270263672
+        ],
+        "107": [
+            31.47991371154785,
+            38.05286407470703,
+            23.701440811157227
+        ],
+        "108": [
+            21.544431686401367,
+            24.903966903686523,
+            22.664796829223633
+        ],
+        "109": [
+            28.180728912353516,
+            23.413381576538086,
+            24.27535057067871
+        ],
+        "110": [
+            27.930233001708984,
+            30.875219345092773,
+            29.737091064453125
+        ],
+        "111": [
+            19.593067169189453,
+            30.69744110107422,
+            40.911460876464844
+        ],
+        "112": [
+            34.17704391479492,
+            30.066822052001953,
+            36.76780700683594
+        ],
+        "113": [
+            25.768712997436523,
+            24.615577697753906,
+            27.08924674987793
+        ],
+        "114": [
+            43.06072998046875,
+            45.30448913574219,
+            38.3358039855957
+        ],
+        "115": [
+            23.71695327758789,
+            28.44911766052246,
+            28.11421775817871
+        ],
+        "116": [
+            17.824766159057617,
+            23.9129638671875,
+            27.76622200012207
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.6966621916425907,
+        "1": 0.8289907473501824,
+        "2": 0.7840844604740053,
+        "3": 1.2752645713423874,
+        "4": 2.3841418115383606,
+        "5": 0.7313349544345716,
+        "6": 1.1926395904386178,
+        "7": 0.7067240927131523,
+        "8": 0.8480826116409824,
+        "9": 0.7221361668508509,
+        "10": 0.6162587165713593,
+        "11": 0.6661025287587444,
+        "12": 0.8559335434111117,
+        "13": 2.1383255295007273,
+        "14": 0.5800285668262817,
+        "15": 0.97331085333541,
+        "16": 0.22008035979567983,
+        "17": 0.5048366630254073,
+        "18": 1.8642274302339992,
+        "19": 1.1709493717084074,
+        "20": 0.29789936781594273,
+        "21": 1.1127254233037631,
+        "22": 0.34653393279711,
+        "23": 3.992355733901835,
+        "24": 1.4273288242184747,
+        "25": 0.4372130380264183,
+        "26": 0.8012002239203301,
+        "27": 0.47229170369643725,
+        "28": 0.6894557064402087,
+        "29": 1.0394097432555547,
+        "30": 1.4771440330808838,
+        "31": 0.19236963444465843,
+        "32": 0.8247237729547449,
+        "33": 0.24333583382004315,
+        "34": 0.9776714236049113,
+        "35": 0.7845888544356366,
+        "36": 0.6671342425554847,
+        "37": 0.8433559087776986,
+        "38": 2.1870169459228923,
+        "39": 1.0942785114532376,
+        "40": 0.24768309617150489,
+        "41": 1.528119274438468,
+        "42": 0.20554530809528393,
+        "43": 2.0112376268561576,
+        "44": 0.09843334688189134,
+        "45": 1.5629284560023256,
+        "46": 1.0015357158433629,
+        "47": 1.633786476665242,
+        "48": 0.8277025623007146,
+        "49": 1.073799063047209,
+        "50": 0.26887194444188484,
+        "51": 0.9129414704530041,
+        "52": 1.7054073964973409,
+        "53": 2.477909488289476,
+        "54": 1.5234986118486302,
+        "55": 1.5690656521374753,
+        "56": 0.904235015639993,
+        "57": 1.447874010534978,
+        "58": 0.3874271549423281,
+        "59": 1.3718307549287359,
+        "60": 2.103179951663686,
+        "61": 1.616586385821492,
+        "62": 0.2873732799693819,
+        "63": 1.0312373677300828,
+        "64": 0.6914285959710456,
+        "65": 3.0050974119438165,
+        "66": 0.06459503023765777,
+        "67": 1.142619078647099,
+        "68": 0.2357988489700146,
+        "69": 0.39116111237723433,
+        "70": 0.3432484286822493,
+        "71": 1.1104006239904018,
+        "72": 0.8061361774128013,
+        "73": 0.47843265332986895,
+        "74": 1.7409530289426232,
+        "75": 0.8666886004243864,
+        "76": 0.6377551493259286,
+        "77": 1.1657001035619283,
+        "78": 4.838990573567236,
+        "79": 2.002831973351637,
+        "80": 1.1754278052487894,
+        "81": 0.9153136418373417,
+        "82": 0.5374178852427005,
+        "83": 1.0992152777567363,
+        "84": 1.8374540596045912,
+        "85": 1.0470493230592222,
+        "86": 1.3900267414975112,
+        "87": 0.5035321068716676,
+        "88": 1.929016804832834,
+        "89": 0.44092364038518855,
+        "90": 2.004392540649754,
+        "91": 1.1563547390640168,
+        "92": 0.5828270525825925,
+        "93": 1.625959834302268,
+        "94": 2.316402485596415,
+        "95": 1.2548060437221984,
+        "96": 1.0424658584807147,
+        "97": 1.5118389090159408,
+        "98": 2.8664520628821433,
+        "99": 0.7964492161041485,
+        "100": 1.572967581367689,
+        "101": 0.8716486597629352,
+        "102": 1.686181345194964,
+        "103": 0.3041452629111223,
+        "104": 0.9423905987667295,
+        "105": 0.8543006680573617,
+        "106": 2.100168989383683,
+        "107": 0.46108432562815604,
+        "108": 0.5413546048484674,
+        "109": 0.8111756532365497,
+        "110": 2.264366452790519,
+        "111": 0.49543918913668406,
+        "112": 1.7379902902535629,
+        "113": 0.38100452442106336,
+        "114": 3.1972966008596266,
+        "115": 1.647592454542826,
+        "116": 1.2140360361730282
+    }
+}
