@@ -1,0 +1,5 @@
+retain_result: checkpoints/Traditional_RT_on_retain90_data_epoch10_lr5e-05_phi_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
+ckpt_result: checkpoints/Traditional_RT_on_full_data_epoch10_lr5e-05_phi_wd0.01/grad_diff_5e-05_forget10_5/eval_results/ds_size300/eval_log_aggregated.json
+method_name: grad_diff_5e-05_forget10_5
+submitted_by: tamim
+save_file: results/grad_diff_5e-05_forget10_5.csv
