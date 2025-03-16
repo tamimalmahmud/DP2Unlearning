@@ -1,11 +1,10 @@
-model_family: phi  # using phi model family for tokenizer and config
+model_family: phi  
 
-# Directory where the saved model from finetune_dp_opa.py or finetune_dp_data.py is located
-base_model_dir: checkpoints/BM_dp_opa_FT_on_full_data_epoch_1_lr_5e-05_phi_wd_0.01_delta_1e-12_eps_0.5
+base_model_dir: checkpoints/BM_dp_MLM_Tr_on_full_data_epoch10_lr5e-05_phi_wd0.01_eps_1.0
 
 # Base model and eps extracted from base_model_dir
-base_model_name: ${extracted_base_model}  # This will be extracted from base_model_dir
-eps: ${extracted_eps}  # This will be extracted from base_model_dir
+base_model_name: ${extracted_base_model}  
+eps: ${extracted_eps}  
 
 # LoRA configurations (optional)
 LoRA:
@@ -13,20 +12,16 @@ LoRA:
   alpha: 32
   dropout: 0.05
 
-# Dataset path and split
 data_path: locuslab/TOFU
-split: retain90
+split: full
 
-# Batch size and gradient accumulation
 batch_size: 4
 gradient_accumulation_steps: 4
 
-# Number of epochs and learning rate
-num_epochs: 1
+num_epochs: 5
 lr: 5e-5
 
-# Save model directory (path for saving further fine-tuned model)
-save_dir: checkpoints/FM_RT_${base_model_name}_on_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}_wd_${weight_decay}_eps_${eps}
+save_dir: checkpoints/UM_FT_${base_model_name}_on_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}_wd_${weight_decay}_eps_${eps}
 
 # Weight decay and seed for reproducibility
 weight_decay: 0.01

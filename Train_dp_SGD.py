@@ -10,10 +10,10 @@ from tqdm import tqdm
 import yaml
 import os
 from opacus.utils.batch_memory_manager import BatchMemoryManager
-from opacus.utils.uniform_sampler import UniformWithReplacementSampler  
+from opacus.utils.uniform_sampler import UniformWithReplacementSampler  # For Poisson sampling
 from data_module import TextDatasetQA, custom_data_collator
 
-# Set seed function directly 
+# Set seed function directly in this script
 def set_seed(seed):
     import random
     import numpy as np

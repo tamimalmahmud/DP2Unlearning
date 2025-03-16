@@ -34,7 +34,7 @@ def convert_raw_data_to_model_format(tokenizer, max_length,  question, answer, m
 
 
 class TextForgetDatasetQA(Dataset):
-    def __init__(self, data_path, tokenizer, model_family,  max_length=512, split = "forget10", loss_type="idk"):
+    def __init__(self, data_path, tokenizer, model_family,  max_length=512, split = "forget05", loss_type="idk"):
         super(TextForgetDatasetQA, self).__init__()
         self.tokenizer = tokenizer
         self.max_length = max_length
@@ -74,12 +74,12 @@ class TextForgetDatasetQA(Dataset):
 
 
 class TextForgetDatasetDPOQA(Dataset):
-    def __init__(self, data_path, tokenizer, model_family, max_length=512, split = "forget10", ):
+    def __init__(self, data_path, tokenizer, model_family, max_length=512, split = "forget05", ):
         super(TextForgetDatasetDPOQA, self).__init__()
         self.tokenizer = tokenizer
         self.max_length = max_length
         self.forget_data = datasets.load_dataset(data_path, split)["train"]
-        self.idontknowfile = "data/idontknow.jsonl"
+        self.idontknowfile = "checkpoints/idontknow.jsonl"
         self.idk = open(self.idontknowfile, "r").readlines()
         retain_split = "retain" + str(100 - int(split.replace("forget", ""))).zfill(2)
         self.retain_data = datasets.load_dataset(data_path, retain_split)["train"]
@@ -150,17 +150,22 @@ class TextDatasetQA(Dataset):
                 torch.stack(pad_attention_mask_list).squeeze(),\
                 torch.tensor(indices)
 #The following code added for load DP dataset from local drive
+#The following code added for load DP dataset from local drive
 from datasets import load_from_disk
 class TextDatasetQADP(Dataset):
     def __init__(self, epsilon, tokenizer, model_family, max_length=512, split = None, question_key='question', answer_key='answer'):
         super(TextDatasetQADP, self).__init__()
         self.tokenizer = tokenizer
         self.max_length = max_length
-        # data_len = len(datasets.load_dataset(data_path, split)["train"])
-        # self.data = datasets.load_dataset(data_path, split)["train"].select(range(min(100, data_len)))
-        # self.data = datasets.load_dataset(data_path, split)["train"]
-        self.data = load_from_disk('dp_data/noun_phrase/private_data_epsilon_{}/'.format(epsilon))["train"]
+        try:
+            data = load_from_disk('DP-MLM/private_data_epsilon_{}/'.format(epsilon))
+            self.data = data["train"]
+        except KeyError:
+            # If there is no "train" split, use the loaded dataset as-is.
+            self.data = load_from_disk('DP-MLM/private_data_epsilon_{}/'.format(epsilon))
 
+        #self.data = load_from_disk('DP-MLM/private_data_epsilon_{}/'.format(epsilon))
+        
         self.data = add_dataset_index(self.data)
         self.model_configs = get_model_identifiers_from_yaml(model_family)
         self.qk = question_key

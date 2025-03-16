@@ -56,17 +56,17 @@ def eval_perturbation_ratio(eval_dataloader, perturb_dataloader, model):
         perturb_loss_per_token = perturb_loss/num_token_perturb
         gt_loss_per_token = gt_loss/num_token_gt
         # truth_ratio = torch.exp(-1 * perturb_loss_per_token).mean(-1) / torch.exp(-1 * gt_loss_per_token)
-        truth_ratio = torch.exp(gt_loss_per_token - perturb_loss_per_token.mean(-1))
+        truth_ratio = torch.exp(gt_loss_per_token.float() - perturb_loss_per_token.float().mean(-1))
 
 
         # zip index and each stat into a dict
-        perturb_loss_per_token = dict(zip(indices.cpu().numpy().tolist(), perturb_loss_per_token.cpu().numpy().tolist()))
-        gt_loss_per_token = dict(zip(indices.cpu().numpy().tolist(), gt_loss_per_token.cpu().numpy().tolist()))
-        truth_ratio = dict(zip(indices.cpu().numpy().tolist(), truth_ratio.cpu().numpy().tolist()))
-        gt_loss = dict(zip(indices.cpu().numpy().tolist(), gt_loss.cpu().numpy().tolist()))
-        perturb_loss = dict(zip(indices.cpu().numpy().tolist(), perturb_loss.cpu().numpy().tolist()))
-        num_token_gt = dict(zip(indices.cpu().numpy().tolist(), num_token_gt.cpu().numpy().tolist()))
-        num_token_perturb = dict(zip(indices.cpu().numpy().tolist(), num_token_perturb.cpu().numpy().tolist()))
+        perturb_loss_per_token = dict(zip(indices.cpu().numpy().tolist(), perturb_loss_per_token.cpu().float().numpy().tolist()))
+        gt_loss_per_token = dict(zip(indices.cpu().numpy().tolist(), gt_loss_per_token.cpu().float().numpy().tolist()))
+        truth_ratio = dict(zip(indices.cpu().numpy().tolist(), truth_ratio.cpu().float().numpy().tolist()))
+        gt_loss = dict(zip(indices.cpu().numpy().tolist(), gt_loss.cpu().float().numpy().tolist()))
+        perturb_loss = dict(zip(indices.cpu().numpy().tolist(), perturb_loss.cpu().float().numpy().tolist()))
+        num_token_gt = dict(zip(indices.cpu().numpy().tolist(), num_token_gt.cpu().float().numpy().tolist()))
+        num_token_perturb = dict(zip(indices.cpu().numpy().tolist(), num_token_perturb.cpu().float().numpy().tolist()))
 
 
         # merge dicts
@@ -181,9 +181,9 @@ def get_all_evals(cfg, model, tokenizer, eval_task, eval_dataloader, base_eval_d
         if 'generated_text' not in eval_logs:
             eval_logs['generated_text'] = {}
         # print(gt_loss.shape, num_token_gt.shape)
-        eval_logs['avg_gt_loss'].update(dict(zip(indices.cpu().numpy().tolist(), gt_loss_per_token.cpu().numpy().tolist())))
-        eval_logs['gt_loss'].update(dict(zip(indices.cpu().numpy().tolist(), gt_loss.cpu().numpy().tolist())))
-        eval_logs['num_token_gt'].update(dict(zip(indices.cpu().numpy().tolist(), num_token_gt.cpu().numpy().tolist())))
+        eval_logs['avg_gt_loss'].update(dict(zip(indices.cpu().numpy().tolist(), gt_loss_per_token.cpu().float().numpy().tolist())))
+        eval_logs['gt_loss'].update(dict(zip(indices.cpu().numpy().tolist(), gt_loss.cpu().float().numpy().tolist())))
+        eval_logs['num_token_gt'].update(dict(zip(indices.cpu().numpy().tolist(), num_token_gt.cpu().float().numpy().tolist())))
         eval_logs['generated_text'].update(dict(zip(indices.cpu().numpy().tolist(), zip(input_string, gen_output,gt))))
 
 
@@ -206,7 +206,7 @@ def get_all_evals(cfg, model, tokenizer, eval_task, eval_dataloader, base_eval_d
 
     return eval_logs
 
-@hydra.main(version_base=None, config_path="config", config_name="eval_everything_tofu")
+@hydra.main(version_base=None, config_path="config", config_name="eval_everything")
 def main(cfg):
     assert len(cfg.data_path)==len(cfg.split_list)==len(cfg.eval_task)==len(cfg.question_key)==len(cfg.answer_key)==len(cfg.base_answer_key)==len(cfg.perturbed_answer_key), "data_path, split, eval_task, question_key, and answer_key must be the same length"
     Path(cfg.save_dir).mkdir(parents=True, exist_ok=True)
@@ -368,4 +368,3 @@ def eval_rouge_recall(gen_outputs, ground_truths, indices):
 
 if __name__ == "__main__":
     main()
-

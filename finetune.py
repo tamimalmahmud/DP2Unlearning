@@ -37,7 +37,7 @@ def print_trainable_parameters(model):
         f"trainable params: {trainable_params} || all params: {all_param} || trainable%: {100 * trainable_params / all_param}"
     )
 
-@hydra.main(version_base=None, config_path="config", config_name="finetune_tofu")
+@hydra.main(version_base=None, config_path="config", config_name="finetune")
 def main(cfg):
     if os.environ.get('LOCAL_RANK') is not None:
         local_rank = int(os.environ.get('LOCAL_RANK', '0'))

@@ -1,17 +1,17 @@
 model_family: phi
-model_path: checkpoints/Traditional_RT_on_full_data_epoch1_lr5e-05_phi_wd0.01
+model_path: checkpoints/Traditional_RFS_on_full_data_epoch10_lr5e-05_phi_wd0.01
 LoRA:
   r: 0
   alpha: 32
   dropout: 0.05
 
 lr: 5e-5
-split: forget10
+split: forget05
 data_path: locuslab/TOFU
 batch_size: 4
 gradient_accumulation_steps: 4
-num_epochs: 1
-forget_loss: grad_diff
+num_epochs: 5
+forget_loss: dpo
 
 save_dir: ${model_path}/${forget_loss}_${lr}_${split}_${num_epochs}
 overwrite_dir: false
@@ -51,5 +51,5 @@ eval:
   overwrite: true
   use_pretrained: false
 
-  batch_size: 30
+  batch_size: 16
   retain_result: null

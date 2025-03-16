@@ -34,7 +34,7 @@ def print_trainable_parameters(model):
         f"trainable params: {trainable_params} || all params: {all_param} || trainable%: {100 * trainable_params / all_param}"
     )
 
-@hydra.main(version_base=None, config_path="config", config_name="FFT_BaseModel_DP_OPA_DATA.yaml")
+@hydra.main(version_base=None, config_path="config", config_name="RT_DP_BaseModel.yaml")
 def main(cfg):
     if os.environ.get('LOCAL_RANK') is not None:
         local_rank = int(os.environ.get('LOCAL_RANK', '0'))
@@ -44,7 +44,7 @@ def main(cfg):
 
     # Extract base_model_name and eps from base_model_dir
     base_model_dir = cfg.base_model_dir
-    match = re.search(r"checkpoints/(.*?)_FT_.*_eps_(\d+\.\d+)", base_model_dir)  
+    match = re.search(r"checkpoints/(.*?)_Tr_.*_eps_(\d+\.\d+)", base_model_dir)  
     if match:
         base_model_name = match.group(1)  # Extract 'our_dp'
         eps = match.group(2)
@@ -52,7 +52,7 @@ def main(cfg):
         raise ValueError("Pattern not found in base_model_dir")
 
     # Dynamically update the save_dir with base_model_name and eps
-    cfg.save_dir = f"checkpoints/FM_RT_{base_model_name}_on_{cfg.split}_epoch_{cfg.num_epochs}_lr_{cfg.lr}_{cfg.model_family}_wd_{cfg.weight_decay}_eps_{eps}"
+    cfg.save_dir = f"checkpoints/UM_FT_{base_model_name}_on_{cfg.split}_epoch_{cfg.num_epochs}_lr_{cfg.lr}_{cfg.model_family}_wd_{cfg.weight_decay}_eps_{eps}"
 
     # Load the saved model from the directory (finetune_dp_opa.py output) instead of phi pretrained model
     save_model_dir = cfg.base_model_dir  # Directory where the model was saved from finetune_dp_opa.py
