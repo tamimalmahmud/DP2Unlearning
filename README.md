@@ -1,5 +1,5 @@
 
-# Project Name: DP2Unlearning
+# DP2Unlearning
 
 ## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160
 
