@@ -4,7 +4,6 @@ $ conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch
 
 
 Install the following libraries 
-
 1. datasets
 2. accelerate
 3. evaluate
