@@ -20,3 +20,9 @@ Install the following libraries
 13. scipy
 14. ninja
 etc. 
+
+Traditional Retraining from Scrach (Benchmark retain model)
+
+python finetune.py --config-path /home/user_name/project_name/config --config-name finetune.yaml
+
+
