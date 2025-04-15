@@ -9,6 +9,7 @@ To set up the environment for the project, create a conda environment using the 
 
 ```bash
 $ conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
+$ conda activate torch-env
 ```
 
 Then, install the following libraries:
@@ -28,6 +29,7 @@ pip install packaging
 pip install bitsandbytes
 pip install scipy
 pip install ninja
+install additional libraries if required 
 ```
 
 ## Traditional Retraining from Scratch (Benchmark retain model)
@@ -37,6 +39,7 @@ To perform traditional retraining from scratch, run the following command:
 ```bash
 python finetune.py --config-path /home/user_name/project_name/config --config-name finetune.yaml
 ```
+Do necessary modification in finetune.yaml file on your hardware and GPU capacity.
 
 ## Unlearning Ready Training (Disclosure protected base model)
 
@@ -49,6 +52,7 @@ or
 ```bash
 python Train_dp_SGD.py --config-path /home/user_name/project_name/config --config-name Train_dp_SGD.yaml
 ```
+Do necessary modification in Train_dp_MLM.yaml or Train_dp_SGD.yaml based on your hardware and GPU capacity. 
 
 ## DP2Unlearning Fine-Tuning
 
