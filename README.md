@@ -1,5 +1,4 @@
 Installation
-
 $ conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
 
 
