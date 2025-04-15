@@ -1,65 +1,97 @@
-**Installation**
 
+# Project Name
+
+## Installation
+
+To set up the environment for the project, create a conda environment using the following command:
+
+```bash
 $ conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
+```
 
+Then, install the following libraries:
 
-*Also Install the following libraries*
+```bash
+pip install datasets
+pip install accelerate
+pip install evaluate
+pip install matplotlib
+pip install hydra-core
+pip install omegaconf
+pip install peft
+pip install rouge_score
+pip install tqdm
+pip install einops
+pip install packaging
+pip install bitsandbytes
+pip install scipy
+pip install ninja
+```
 
-1. datasets
-2. accelerate
-3. evaluate
-4. matplotlib
-5. hydra-core
-6. omegaconf
-7. peft
-8. rouge_score
-9. tqdm
-10. einops
-11. packaging
-12. bitsandbytes
-13. scipy
-14. ninja
-etc. 
+## Traditional Retraining from Scratch (Benchmark retain model)
 
-**Traditional Retraining from Scrach (Benchmark retain model)**
+To perform traditional retraining from scratch, run the following command:
 
+```bash
 python finetune.py --config-path /home/user_name/project_name/config --config-name finetune.yaml
+```
 
+## Unlearning Ready Training (Disclosure protected base model)
 
-**Unlearning Ready Training (Disclosure protected base model)**
+To train a disclosure-protected base model for unlearning, use one of the following commands:
 
+```bash
 python Train_dp_MLM.py --config-path /home/user_name/project_name/config --config-name Train_dp_MLM.yaml
+```
 or
+```bash
 python Train_dp_SGD.py --config-path /home/user_name/project_name/config --config-name Train_dp_SGD.yaml
+```
 
+## DP2Unlearning Fine-Tuning
 
-**DP2Unlearning fine-tuning**
+For DP2Unlearning fine-tuning, run:
 
+```bash
 python FT_BaseModel.py --config-path /home/user_name/project_name/config --config-name FT_BaseModel.yaml
+```
 
+## Approximate Unlearning Fine-Tuning
 
-**Approximate Unlearning fine-tuning**
+To perform approximate unlearning fine-tuning, execute the following:
 
+```bash
 python forget.py --config-path /home/user_name/project_name/config --config-name forget.yaml
+```
 
+## Evaluation
 
-**Evaluation**
+To evaluate the models, use this command:
 
+```bash
 python evaluate_util.py --config-path /home/user_name/project_name/config --config-name eval_everything.yaml
+```
 
+## Aggregation
 
-**Aggregation**
+To aggregate the evaluation statistics, use:
 
+```bash
 python aggregate_eval_stat.py --config-path /home/user_name/project_name/config --config-name aggregate_eval_stat.yaml
+```
 
+Ensure you have the paths to your results:
+
+```bash
 retain_result=${path_to_traditional_retraining_from_scratch}
 ckpt_result=${path_to_your_unlearned_method}
+```
 
-**Beyong KS Test**
+## Beyond KS Test
 
+To run the Beyond KS Test, execute:
+
+```bash
 python Beyond_KS_test.py --config-path /home/user_name/project_name/config --config-name aggregate_eval_stat.yaml
-
-
-
-
+```
 
