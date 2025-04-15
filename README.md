@@ -63,7 +63,7 @@ python FT_BaseModel.py --config-path /home/user_name/project_name/config --confi
 ```
 Do necessary modification to FT_BaseModel.yaml based on forgetting percentage (1%:retain99, 5%:retain95, or 10%:retain90)
 
-## Approximate Unlearning Fine-Tuning
+## Approximate Unlearning Baselines Fine-Tuning
 
 To perform approximate unlearning fine-tuning, execute the following:
 
