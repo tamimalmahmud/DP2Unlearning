@@ -61,6 +61,7 @@ For DP2Unlearning fine-tuning, run:
 ```bash
 python FT_BaseModel.py --config-path /home/user_name/project_name/config --config-name FT_BaseModel.yaml
 ```
+Do necessary modification to FT_BaseModel.yaml based on forgetting percentage (1%:retain99, 5%:retain95, or 10%:retain90)
 
 ## Approximate Unlearning Fine-Tuning
 
