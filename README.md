@@ -39,7 +39,7 @@ To perform traditional retraining from scratch, run the following command:
 ```bash
 python finetune.py --config-path /home/user_name/project_name/config --config-name finetune.yaml
 ```
-Do necessary modification in finetune.yaml file on your hardware and GPU capacity.
+Do necessary modification in finetune.yaml file based on your hardware and GPU capacity.
 
 ## Unlearning Ready Training (Disclosure protected base model)
 
@@ -77,6 +77,7 @@ To evaluate the models, use this command:
 ```bash
 python evaluate_util.py --config-path /home/user_name/project_name/config --config-name eval_everything.yaml
 ```
+You need to provide the specific model path that you wish to evaluate. 
 
 ## Aggregation
 
