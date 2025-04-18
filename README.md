@@ -1,7 +1,8 @@
 
 # DP2Unlearning
 
-## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160
+## Paper: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms
+](https://dx.doi.org/10.2139/ssrn.5217160)
 
 ## Installation
 
@@ -102,4 +103,7 @@ To run the Beyond KS Test, execute:
 ```bash
 python Beyond_KS_test.py --config-path /home/user_name/project_name/config --config-name aggregate_eval_stat.yaml
 ```
+---------------------------------------------------------------------------------------------------------------------
+
+<small>The baseline methods are implemented from </small> [[1](https://locuslab.github.io/tofu/)]
 
