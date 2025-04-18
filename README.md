@@ -1,8 +1,8 @@
 
 # DP2Unlearning
 
-## Paper: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms
-](https://dx.doi.org/10.2139/ssrn.5217160)
+## Paper: 
+[DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms](https://dx.doi.org/10.2139/ssrn.5217160)
 
 ## Installation
 
