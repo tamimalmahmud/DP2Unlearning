@@ -106,3 +106,6 @@ python Beyond_KS_test.py --config-path /home/user_name/project_name/config --con
 
 <small>The baseline methods are implemented from </small> [[1](https://locuslab.github.io/tofu/)]
 
+The baseline methods and evaluation metrics are implemented from <small>[TOFU][1]</small>.
+[1]: https://locuslab.github.io/tofu/
+
