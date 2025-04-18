@@ -17,7 +17,7 @@ Then, install the following libraries:
 ```bash
 pip install datasets accelerate evaluate matplotlib hydra-core omegaconf peft rouge_score tqdm einops packaging bitsandbytes scipy ninja
 ```
-install additional libraries if required 
+Also you may install additional libraries if required. 
 
 ## Traditional Retraining from Scratch (Benchmark retain model)
 
