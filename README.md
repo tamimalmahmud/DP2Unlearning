@@ -15,22 +15,9 @@ $ conda activate torch-env
 Then, install the following libraries:
 
 ```bash
-pip install datasets
-pip install accelerate
-pip install evaluate
-pip install matplotlib
-pip install hydra-core
-pip install omegaconf
-pip install peft
-pip install rouge_score
-pip install tqdm
-pip install einops
-pip install packaging
-pip install bitsandbytes
-pip install scipy
-pip install ninja
-install additional libraries if required 
+pip install datasets accelerate evaluate matplotlib hydra-core omegaconf peft rouge_score tqdm einops packaging bitsandbytes scipy ninja
 ```
+install additional libraries if required 
 
 ## Traditional Retraining from Scratch (Benchmark retain model)
 
