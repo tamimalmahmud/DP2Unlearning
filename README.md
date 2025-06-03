@@ -33,6 +33,7 @@ Do necessary modification in finetune.yaml file based on your hardware and GPU c
 To train a disclosure-protected base model for unlearning, use one of the following commands:
 
 ```bash
+python DP2U-MLM.py to transform raw data to disclosure protected data using DP-MLM
 python Train_dp_MLM.py --config-path /home/user_name/project_name/config --config-name Train_dp_MLM.yaml
 ```
 or
